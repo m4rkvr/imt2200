@@ -23,6 +23,7 @@ Utilizamos dos bases de datos principales:
 2. **Modalidad Libre Elección 2023 Diciembre**: Datos de uso de prestaciones en la modalidad de libre elección.
 
 Ambas bases están disponibles [aquí](https://www.fonasa.cl/sites/fonasa/datos-abiertos/estadisticas-anuales).
+Pese a ello cree una muestra de 100 filas de cada archivo en la carpeta data/
 
 ## 4. Preguntas de Investigación
 1. ¿Qué tipos de prestación médica son más frecuentes según edad y género?
