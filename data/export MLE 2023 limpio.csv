@@ -1,101 +1,801 @@
-MES_INFORMACION,CÓDIGO_BENEFICIARIO,SEXO,EDAD_TRAMO,TITULAR_CARGA,TRAMO_FONASA,TRAMO_RENTA,NACIONALIDAD,CARACTERIZACIÓN,TIPO_ASEGURADO,REGIÓN_BENEFICIARIO,COMUNA_BENEFICIARIO
-202312,71819187,Hombre,40 a 49 años,Titular,D,650.001 - 700.000,Chilena,Dependiente,Trabajador Dependiente,Del Bíobío,Curanilahue
-202312,80064014,Hombre,40 a 49 años,Titular,D,900.001 - 950.000,Chilena,Dependiente,Trabajador Dependiente,Del Bíobío,Concepción
-202312,87503153,Mujer,50 a 59 años,Titular,A,Sin Cotizaciones,Chilena,Grupo Hogar Carente,Carente,De La Araucanía,Ercilla
-202312,71657668,Mujer,40 a 49 años,Titular,A,Sin Cotizaciones,Chilena,Suf,Carente,De La Araucanía,Victoria
-202312,75628648,Mujer,40 a 49 años,Titular,B,1 - 100.000,Chilena,Pensionado,Pensionado,De La Araucanía,Victoria
-202312,74205743,Mujer,30 a 39 años,Titular,B,Sin Cotizaciones,Chilena,Dependiente,Trabajador Dependiente,De La Araucanía,Lonquimay
-202312,73152764,Mujer,40 a 49 años,Titular,D,750.001 - 800.000,Chilena,Desempleado Con Seguro De Desempleo,Trabajador Dependiente,De La Araucanía,Nueva Imperial
-202312,84529644,Hombre,40 a 49 años,Titular,A,Sin Cotizaciones,Chilena,Grupo Hogar Carente,Carente,De La Araucanía,Saavedra
-202312,72705228,Hombre,40 a 49 años,Titular,C,450.001 - 500.000,Chilena,Dependiente,Trabajador Dependiente,De La Araucanía,Saavedra
-202312,79406865,Mujer,40 a 49 años,Titular,C,500.001 - 550.000,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Puente Alto
-202312,69984139,Mujer,40 a 49 años,Titular,A,Sin Cotizaciones,Chilena,Suf,Carente,De La Araucanía,Padre Las Casas
-202312,74782806,Mujer,40 a 49 años,Titular,A,Sin Cotizaciones,Chilena,Grupo Hogar Carente,Carente,De La Araucanía,Temuco
-202312,67871456,Hombre,40 a 49 años,Titular,A,Sin Cotizaciones,Chilena,Grupo Hogar Carente,Carente,De La Araucanía,Temuco
-202312,73600533,Mujer,40 a 49 años,Titular,C,500.001 - 550.000,Chilena,Dependiente,Trabajador Dependiente,De La Araucanía,Padre Las Casas
-202312,74705801,Hombre,40 a 49 años,Titular,D,800.001 - 850.000,Chilena,Dependiente,Trabajador Dependiente,De Los Ríos,Máfil
-202312,82430714,Hombre,40 a 49 años,Titular,C,Sin Cotizaciones,Chilena,Dependiente,Trabajador Dependiente,De Los Ríos,Panguipulli
-202312,76228489,Mujer,40 a 49 años,Titular,B,400.001 - 450.000,Chilena,Dependiente,Trabajador Dependiente,De Los Lagos,Puerto Varas
-202312,71747101,Mujer,40 a 49 años,Titular,B,1.100.001 - 1.150.000,Chilena,Empleado Del Sector Salud,Trabajador Dependiente,De Los Lagos,Puerto Montt
-202312,73067259,Mujer,30 a 39 años,Titular,A,Sin Cotizaciones,Chilena,Suf,Carente,De Los Lagos,Frutillar
-202312,76057768,Hombre,30 a 39 años,Titular,D,950.001 - 1.000.000,Chilena,Dependiente,Trabajador Dependiente,De Los Lagos,Puerto Montt
-202312,83376042,Hombre,30 a 39 años,Titular,C,Sin Cotizaciones,Chilena,Dependiente,Trabajador Dependiente,De Los Lagos,Quellón
-202312,72038423,Mujer,20 a 29 años,Titular,B,Sin Cotizaciones,Chilena,Dependiente,Trabajador Dependiente,Del Bíobío,Talcahuano
-202312,71179502,Mujer,30 a 39 años,Titular,D,1.000.001 - 1.050.000,Chilena,Dependiente,Trabajador Dependiente,De Los Lagos,Quinchao
-202312,78874973,Hombre,40 a 49 años,Titular,D,950.001 - 1.000.000,Chilena,Dependiente,Trabajador Dependiente,De Magallanes Y De La Antártica Chilena,Punta Arenas
-202312,73570721,Hombre,40 a 49 años,Titular,C,450.001 - 500.000,Chilena,Dependiente,Trabajador Dependiente,De Magallanes Y De La Antártica Chilena,Punta Arenas
-202312,87864663,Mujer,40 a 49 años,Titular,D,1.500.001 - 1.550.000,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Puente Alto
-202312,82244104,Mujer,40 a 49 años,Titular,C,Sin Cotizaciones,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Providencia
-202312,83761170,Hombre,40 a 49 años,Titular,D,1.050.001 - 1.100.000,Chilena,Dependiente,Trabajador Dependiente,De Los Ríos,Valdivia
-202312,85218044,Hombre,40 a 49 años,Titular,D,650.001 - 700.000,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,El Bosque
-202312,77659665,Mujer,40 a 49 años,Titular,C,500.001 - 550.000,Chilena,Dependiente,Trabajador Dependiente,Del Bíobío,Concepción
-202312,83599179,Hombre,40 a 49 años,Titular,D,750.001 - 800.000,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,La Florida
-202312,72976944,Mujer,40 a 49 años,Titular,A,Sin Cotizaciones,Chilena,Suf,Carente,Metropolitana De Santiago,Maipú
-202312,86725335,Hombre,40 a 49 años,Titular,B,100.001 - 150.000,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Puente Alto
-202312,82061291,Hombre,40 a 49 años,Titular,D,1.100.001 - 1.150.000,Chilena,Dependiente,Trabajador Dependiente,De Valparaíso,San Antonio
-202312,76870529,Mujer,40 a 49 años,Titular,B,450.001 - 500.000,Chilena,Desempleado Con Seguro De Desempleo,Trabajador Dependiente,Metropolitana De Santiago,Lo Espejo
-202312,85328867,Hombre,40 a 49 años,Titular,B,150.001 - 200.000,Chilena,Dependiente,Trabajador Dependiente,De Arica Y Parinacota,Arica
-202312,83938879,Hombre,40 a 49 años,Titular,D,mayor a 1.600.00,Chilena,Dependiente,Trabajador Dependiente,Del Maule,Pencahue
-202312,82481571,Mujer,40 a 49 años,Titular,D,200.001 - 250.000,Chilena,Independiente,Trabajador Independiente,Metropolitana De Santiago,Las Condes
-202312,87548372,Mujer,40 a 49 años,Titular,B,400.001 - 450.000,Chilena,Independiente Voluntario,Trabajador Independiente,Metropolitana De Santiago,Maipú
-202312,77904133,Mujer,40 a 49 años,Titular,D,mayor a 1.600.00,Chilena,Dependiente,Trabajador Dependiente,De Magallanes Y De La Antártica Chilena,Punta Arenas
-202312,76741712,Hombre,30 a 39 años,Titular,A,Sin Cotizaciones,Chilena,Grupo Hogar Carente,Carente,Metropolitana De Santiago,Puente Alto
-202312,77775421,Mujer,40 a 49 años,Titular,D,850.001 - 900.000,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,La Pintana
-202312,68679660,Mujer,40 a 49 años,Titular,A,Sin Cotizaciones,Chilena,Grupo Hogar Carente,Carente,Metropolitana De Santiago,Melipilla
-202312,80606857,Mujer,40 a 49 años,Titular,B,200.001 - 250.000,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Paine
-202312,70888982,Hombre,40 a 49 años,Titular,D,mayor a 1.600.00,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Buin
-202312,84419193,Hombre,40 a 49 años,Titular,D,1.500.001 - 1.550.000,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Providencia
-202312,76729771,Mujer,40 a 49 años,Titular,B,700.001 - 750.000,Chilena,Desempleado Con Seguro De Desempleo,Trabajador Dependiente,De Los Lagos,Quellón
-202312,79347426,Hombre,40 a 49 años,Titular,C,600.001 - 650.000,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,El Bosque
-202312,86558701,Hombre,40 a 49 años,Titular,A,Sin Cotizaciones,Chilena,Grupo Hogar Carente,Carente,Metropolitana De Santiago,San Ramón
-202312,78781696,Mujer,40 a 49 años,Titular,B,mayor a 1.600.00,Chilena,Empleado Del Sector Salud,Trabajador Dependiente,De La Araucanía,Freire
-202312,70985241,Mujer,40 a 49 años,Titular,B,400.001 - 450.000,Chilena,Independiente,Trabajador Independiente,De Los Lagos,Puerto Montt
-202312,78430597,Mujer,40 a 49 años,Titular,D,650.001 - 700.000,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Peñalolén
-202312,79312005,Hombre,40 a 49 años,Titular,B,350.001 - 400.000,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Puente Alto
-202312,79484209,Mujer,40 a 49 años,Titular,B,Sin Cotizaciones,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Puente Alto
-202312,73452848,Hombre,40 a 49 años,Titular,D,1.150.001 - 1.200.000,Chilena,Desempleado Con Seguro De Desempleo,Trabajador Dependiente,Metropolitana De Santiago,La Florida
-202312,76364147,Mujer,40 a 49 años,Titular,B,450.001 - 500.000,Chilena,Desempleado Con Seguro De Desempleo,Trabajador Dependiente,De La Araucanía,Victoria
-202312,77162509,Mujer,40 a 49 años,Titular,C,500.001 - 550.000,Chilena,Dependiente,Trabajador Dependiente,Del Bíobío,Cabrero
-202312,70630520,Mujer,40 a 49 años,Titular,D,900.001 - 950.000,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Puente Alto
-202312,73082998,Hombre,40 a 49 años,Titular,D,1.500.001 - 1.550.000,Chilena,Desempleado Con Seguro De Desempleo,Trabajador Dependiente,Metropolitana De Santiago,Paine
-202312,70876131,Hombre,30 a 39 años,Titular,C,450.001 - 500.000,Chilena,Dependiente,Trabajador Dependiente,Del Libertador General Bernardo O'Higgins,Peralillo
-202312,83201120,Hombre,40 a 49 años,Titular,C,1.350.001 - 1.400.000,Chilena,Desempleado Con Seguro De Desempleo,Trabajador Dependiente,Metropolitana De Santiago,Quinta Normal
-202312,70795751,Mujer,50 a 59 años,Titular,B,Sin Cotizaciones,Chilena,Independiente,Trabajador Independiente,De Coquimbo,La Serena
-202312,78041722,Mujer,40 a 49 años,Titular,B,450.001 - 500.000,Chilena,Dependiente,Trabajador Dependiente,Del Maule,Curicó
-202312,71609324,Mujer,40 a 49 años,Titular,C,650.001 - 700.000,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Lo Prado
-202312,71249442,Mujer,30 a 39 años,Titular,B,350.001 - 400.000,Chilena,Dependiente,Trabajador Dependiente,De Aysén Del Gral. C. Ibáñez Del Campo,Coyhaique
-202312,70466298,Mujer,40 a 49 años,Titular,A,Sin Cotizaciones,Chilena,Grupo Hogar Carente,Carente,Del Libertador General Bernardo O'Higgins,Rancagua
-202312,81121083,Mujer,30 a 39 años,Titular,A,Sin Cotizaciones,Chilena,Grupo Hogar Carente,Carente,Del Libertador General Bernardo O'Higgins,Chimbarongo
-202312,85410589,Mujer,40 a 49 años,Titular,D,1.400.001 - 1.450.000,Chilena,Dependiente,Trabajador Dependiente,De Los Ríos,Valdivia
-202312,73564741,Mujer,40 a 49 años,Titular,B,400.001 - 450.000,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Pedro Aguirre Cerda
-202312,76985019,Mujer,40 a 49 años,Titular,D,400.001 - 450.000,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Lo Espejo
-202312,84586668,Mujer,40 a 49 años,Titular,B,Sin Cotizaciones,Chilena,Independiente Voluntario,Trabajador Independiente,Metropolitana De Santiago,Macul
-202312,70221384,Mujer,40 a 49 años,Titular,D,750.001 - 800.000,Chilena,Desempleado Con Seguro De Desempleo,Trabajador Dependiente,Metropolitana De Santiago,Lo Espejo
-202312,73312662,Hombre,30 a 39 años,Titular,B,Sin Cotizaciones,Chilena,Desempleado Con Seguro De Desempleo,Trabajador Dependiente,De Los Ríos,Valdivia
-202312,67664426,Mujer,40 a 49 años,Titular,C,400.001 - 450.000,Chilena,Dependiente,Trabajador Dependiente,De Valparaíso,Casablanca
-202312,83395861,Hombre,40 a 49 años,Titular,B,Sin Cotizaciones,Chilena,Dependiente,Trabajador Dependiente,De Valparaíso,Viña Del Mar
-202312,82687696,Hombre,40 a 49 años,Titular,D,1.500.001 - 1.550.000,Chilena,Desempleado Con Seguro De Desempleo,Trabajador Dependiente,De Valparaíso,Viña Del Mar
-202312,75904789,Mujer,40 a 49 años,Titular,D,800.001 - 850.000,Chilena,Desempleado Con Seguro De Desempleo,Trabajador Dependiente,Metropolitana De Santiago,Colina
-202312,77680046,Hombre,40 a 49 años,Titular,C,1.500.001 - 1.550.000,Chilena,Dependiente,Trabajador Dependiente,Del Libertador General Bernardo O'Higgins,Rancagua
-202312,71185554,Mujer,40 a 49 años,Titular,C,850.001 - 900.000,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Cerro Navia
-202312,72240608,Mujer,40 a 49 años,Titular,B,600.001 - 650.000,Chilena,Dependiente,Trabajador Dependiente,Del Bíobío,Chiguayante
-202312,84094606,Hombre,40 a 49 años,Titular,B,200.001 - 250.000,Chilena,Trabajador A Honorario,Trabajador Independiente,Metropolitana De Santiago,Las Condes
-202312,72769744,Hombre,40 a 49 años,Titular,D,1.200.001 - 1.250.000,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Colina
-202312,74403403,Hombre,40 a 49 años,Titular,D,mayor a 1.600.00,Chilena,Dependiente,Trabajador Dependiente,De Tarapacá,Alto Hospicio
-202312,69212245,Mujer,40 a 49 años,Titular,D,600.001 - 650.000,Chilena,Dependiente,Trabajador Dependiente,Del Bíobío,Coronel
-202312,78841527,Hombre,40 a 49 años,Titular,C,350.001 - 400.000,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Quilicura
-202312,72068514,Mujer,30 a 39 años,Titular,C,450.001 - 500.000,Chilena,Dependiente,Trabajador Dependiente,De La Araucanía,Villarrica
-202312,73465307,Hombre,40 a 49 años,Titular,D,mayor a 1.600.00,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Melipilla
-202312,68326056,Mujer,40 a 49 años,Titular,D,850.001 - 900.000,Chilena,Dependiente,Trabajador Dependiente,Del Maule,Curepto
-202312,76643529,Hombre,40 a 49 años,Titular,B,400.001 - 450.000,Chilena,Dependiente,Trabajador Dependiente,Del Bíobío,Los Ángeles
-202312,86102027,Hombre,40 a 49 años,Titular,D,1.000.001 - 1.050.000,Chilena,Dependiente,Trabajador Dependiente,Del Bíobío,Los Ángeles
-202312,83167722,Mujer,30 a 39 años,Titular,C,300.001 - 350.000,Chilena,Desempleado Con Seguro De Desempleo,Trabajador Dependiente,Metropolitana De Santiago,Pedro Aguirre Cerda
-202312,86047133,Mujer,30 a 39 años,Carga,C,Sin Cotizaciones,Chilena,Dependiente,Trabajador Dependiente,De La Araucanía,Villarrica
-202312,86568013,Hombre,30 a 39 años,Titular,C,500.001 - 550.000,Chilena,Dependiente,Trabajador Dependiente,De Valparaíso,Papudo
-202312,68403736,Mujer,30 a 39 años,Titular,B,Sin Cotizaciones,Chilena,Dependiente,Trabajador Dependiente,De Valparaíso,Valparaíso
-202312,67746427,Mujer,40 a 49 años,Titular,B,400.001 - 450.000,Chilena,Dependiente,Trabajador Dependiente,De Valparaíso,La Cruz
-202312,68400895,Hombre,40 a 49 años,Titular,B,800.001 - 850.000,Chilena,Empleado Del Sector Salud,Trabajador Dependiente,Metropolitana De Santiago,Maipú
-202312,86602758,Mujer,30 a 39 años,Titular,C,Sin Cotizaciones,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Peñaflor
-202312,76736354,Mujer,30 a 39 años,Titular,B,350.001 - 400.000,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Estación Central
-202312,69521217,Hombre,30 a 39 años,Titular,C,Sin Cotizaciones,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Estación Central
-202312,85022323,Hombre,30 a 39 años,Titular,D,850.001 - 900.000,Chilena,Dependiente,Trabajador Dependiente,Metropolitana De Santiago,Padre Hurtado
+MES_EMISION,CODIGO_PRESTACIN,DESC_SECCION,DESC_ITEM,CODIGO_BENEFICIARIO,TRAMO_FONASA,EDAD_TRAMO,SEXO,REGION_EMISION,COMUNA_EMISION,PRESTRACIONES,MONTO_FAM,MONTO_COPAGO
+202305,309022,Exmenes De Diagnstico,Laboratorio Clnico,97481406,D,35 a 39 aos,Mujer,Metropolitana De Santiago,La Cisterna,1,890,900
+202305,302023,Exmenes De Diagnstico,Laboratorio Clnico,76712895,X,50 a 54 aos,Hombre,De Tarapac,Iquique,1,630,1390
+202305,302023,Exmenes De Diagnstico,Laboratorio Clnico,69353764,B,50 a 54 aos,Mujer,Metropolitana De Santiago,San Joaqun,1,630,1390
+202305,302023,Exmenes De Diagnstico,Laboratorio Clnico,76007327,B,55 a 59 aos,Mujer,Del Bobo,Curanilahue,1,630,1390
+202305,302023,Exmenes De Diagnstico,Laboratorio Clnico,81474165,B,55 a 59 aos,Mujer,Metropolitana De Santiago,Las Condes,1,630,1390
+202305,302023,Exmenes De Diagnstico,Laboratorio Clnico,80953490,C,55 a 59 aos,Hombre,Metropolitana De Santiago,Las Condes,1,630,1390
+202305,309022,Exmenes De Diagnstico,Laboratorio Clnico,75438961,D,20 a 24 aos,Hombre,De Valparaso,San Antonio,1,890,1970
+202303,601101,Otros Profesionales,Kinesiologa,84252002,D,55 a 59 aos,Hombre,De Arica Y Parinacota,Arica,1,990,2180
+202305,301045,Exmenes De Diagnstico,Laboratorio Clnico,67534941,B,85 a 89 aos,Hombre,uble,Chilln,1,1440,3170
+202305,301045,Exmenes De Diagnstico,Laboratorio Clnico,73484236,B,55 a 59 aos,Mujer,Metropolitana De Santiago,Quilicura,1,1440,3170
+202305,301045,Exmenes De Diagnstico,Laboratorio Clnico,67900213,C,50 a 54 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,1440,3170
+202305,301045,Exmenes De Diagnstico,Laboratorio Clnico,84365828,C,50 a 54 aos,Mujer,Del Bobo,Concepcin,1,1440,3170
+202305,303017,Exmenes De Diagnstico,Laboratorio Clnico,77863912,D,45 a 49 aos,Mujer,De Los Lagos,Calbuco,1,2390,3820
+202303,601101,Otros Profesionales,Kinesiologa,82976326,D,60 a 64 aos,Hombre,Metropolitana De Santiago,Talagante,2,1980,4360
+202305,303017,Exmenes De Diagnstico,Laboratorio Clnico,73431369,C,25 a 29 aos,Mujer,De Valparaso,Via Del Mar,1,2390,5260
+202305,303017,Exmenes De Diagnstico,Laboratorio Clnico,74801019,D,30 a 34 aos,Hombre,De Tarapac,Iquique,1,2390,5260
+202301,101305,Atencin Mdica,Consulta Mdica,79530653,D,05 a 09 aos,Hombre,De La Araucana,Loncoche,1,9890,6590
+202301,101309,Atencin Mdica,Consulta Mdica,94555201,B,05 a 09 aos,Hombre,Metropolitana De Santiago,Buin,1,9890,6590
+202302,101309,Atencin Mdica,Consulta Mdica,78981060,D,05 a 09 aos,Mujer,Metropolitana De Santiago,Lampa,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,78849299,B,05 a 09 aos,Hombre,Metropolitana De Santiago,Maip,1,9890,6590
+202301,101309,Atencin Mdica,Consulta Mdica,94525130,D,05 a 09 aos,Mujer,Metropolitana De Santiago,Maip,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,95071110,B,05 a 09 aos,Mujer,Metropolitana De Santiago,uoa,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,78293403,B,05 a 09 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202302,101309,Atencin Mdica,Consulta Mdica,92144856,B,05 a 09 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202301,101327,Atencin Mdica,Consulta Mdica,92208874,D,05 a 09 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202302,101309,Atencin Mdica,Consulta Mdica,79300063,D,05 a 09 aos,Hombre,Metropolitana De Santiago,Santiago,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,79114541,D,05 a 09 aos,Hombre,Metropolitana De Santiago,Santiago,1,9890,6590
+202302,101309,Atencin Mdica,Consulta Mdica,78792108,C,05 a 09 aos,Hombre,Metropolitana De Santiago,Cerrillos,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,94878595,D,05 a 09 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202301,101309,Atencin Mdica,Consulta Mdica,78837135,C,05 a 09 aos,Mujer,Metropolitana De Santiago,San Miguel,1,9890,6590
+202302,101309,Atencin Mdica,Consulta Mdica,79155679,D,05 a 09 aos,Mujer,Metropolitana De Santiago,Puente Alto,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,92023150,X,05 a 09 aos,Mujer,Metropolitana De Santiago,Estacin Central,1,9890,6590
+202301,101330,Atencin Mdica,Consulta Mdica,79055111,B,05 a 09 aos,Mujer,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202302,101309,Atencin Mdica,Consulta Mdica,95777764,D,05 a 09 aos,Hombre,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,78899674,B,10 a 14 aos,Hombre,De uble,Chilln,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,78806705,D,10 a 14 aos,Hombre,Del Maule,San Javier,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,88089680,B,10 a 14 aos,Hombre,Del Maule,San Javier,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,76107045,C,10 a 14 aos,Mujer,Del Bobo,Concepcin,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,91760978,C,10 a 14 aos,Hombre,Del Bobo,Concepcin,1,9890,6590
+202301,101309,Atencin Mdica,Consulta Mdica,76689371,B,10 a 14 aos,Hombre,De Coquimbo,Coquimbo,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,77078981,B,10 a 14 aos,Hombre,De Tarapac,Iquique,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,76339272,D,10 a 14 aos,Hombre,De Los Lagos,Osorno,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,76904196,C,10 a 14 aos,Mujer,De Valparaso,Quilpu,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,77370341,B,10 a 14 aos,Hombre,De Valparaso,La Ligua,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,75605095,D,10 a 14 aos,Hombre,De Valparaso,Valparaso,1,9890,6590
+202303,101312,Atencin Mdica,Consulta Mdica,88091537,D,10 a 14 aos,Hombre,De Antofagasta,Antofagasta,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,91604329,D,10 a 14 aos,Mujer,De Arica Y Parinacota,Arica,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,77084345,D,10 a 14 aos,Hombre,Metropolitana De Santiago,Buin,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,91574143,B,10 a 14 aos,Hombre,Metropolitana De Santiago,Lampa,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,79820277,D,10 a 14 aos,Mujer,Metropolitana De Santiago,Curacav,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,77981384,D,10 a 14 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,77777614,B,10 a 14 aos,Hombre,Metropolitana De Santiago,Cerrillos,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,88216624,D,10 a 14 aos,Mujer,Metropolitana De Santiago,Pealoln,1,9890,6590
+202301,101307,Atencin Mdica,Consulta Mdica,73799603,B,10 a 14 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,79548147,C,10 a 14 aos,Hombre,Metropolitana De Santiago,La Florida,1,9890,6590
+202301,101320,Atencin Mdica,Consulta Mdica,76470799,B,10 a 14 aos,Hombre,Metropolitana De Santiago,La Florida,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,79982789,D,10 a 14 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202301,101309,Atencin Mdica,Consulta Mdica,79015955,D,10 a 14 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,77130675,B,10 a 14 aos,Hombre,Metropolitana De Santiago,Puente Alto,1,9890,6590
+202301,101309,Atencin Mdica,Consulta Mdica,74730635,D,10 a 14 aos,Hombre,Metropolitana De Santiago,Estacin Central,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,77107451,B,15 a 19 aos,Mujer,Del Maule,Talca,1,9890,6590
+202302,101312,Atencin Mdica,Consulta Mdica,75455630,B,15 a 19 aos,Mujer,Del Maule,Talca,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,72501273,D,15 a 19 aos,Mujer,Del Maule,Curic,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,72341265,D,15 a 19 aos,Mujer,De Atacama,Copiap,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,74637180,B,15 a 19 aos,Hombre,Del Bobo,Concepcin,1,9890,6590
+202303,101312,Atencin Mdica,Consulta Mdica,87806298,C,15 a 19 aos,Mujer,Del Bobo,Los ngeles,1,9890,6590
+202302,101312,Atencin Mdica,Consulta Mdica,76847161,C,15 a 19 aos,Mujer,De Valparaso,Quillota,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,73406371,B,15 a 19 aos,Mujer,De Valparaso,Los Andes,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,75557985,C,15 a 19 aos,Mujer,De Valparaso,Valparaso,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,72048712,D,15 a 19 aos,Mujer,De Antofagasta,Antofagasta,1,9890,6590
+202301,101309,Atencin Mdica,Consulta Mdica,71009849,D,15 a 19 aos,Mujer,De Antofagasta,Antofagasta,1,9890,6590
+202303,101309,Atencin Mdica,Consulta Mdica,78142225,X,15 a 19 aos,Hombre,De Antofagasta,Antofagasta,1,9890,6590
+202302,101321,Atencin Mdica,Consulta Mdica,80599237,B,15 a 19 aos,Hombre,De La Araucana,Temuco,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,78611543,D,15 a 19 aos,Mujer,Metropolitana De Santiago,Buin,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,71575678,C,15 a 19 aos,Mujer,Metropolitana De Santiago,Maip,1,9890,6590
+202302,101308,Atencin Mdica,Consulta Mdica,75147382,B,15 a 19 aos,Mujer,Metropolitana De Santiago,Recoleta,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,69117254,D,15 a 19 aos,Hombre,Metropolitana De Santiago,Santiago,1,9890,6590
+202301,101301,Atencin Mdica,Consulta Mdica,69483888,D,15 a 19 aos,Hombre,Metropolitana De Santiago,Las Condes,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,75515656,D,15 a 19 aos,Mujer,Metropolitana De Santiago,Las Condes,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,76422027,D,15 a 19 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,71071903,D,15 a 19 aos,Hombre,Metropolitana De Santiago,Puente Alto,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,70655410,D,15 a 19 aos,Mujer,Metropolitana De Santiago,Puente Alto,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,67993119,B,15 a 19 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,76935429,D,15 a 19 aos,Hombre,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,70852651,B,15 a 19 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202304,101307,Atencin Mdica,Consulta Mdica,78810557,D,15 a 19 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202302,101308,Atencin Mdica,Consulta Mdica,87831041,B,15 a 19 aos,Mujer,Metropolitana De Santiago,Independencia,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,71277795,C,15 a 19 aos,Mujer,Metropolitana De Santiago,Estacin Central,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,71213390,C,15 a 19 aos,Mujer,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,76010517,C,15 a 19 aos,Mujer,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202302,101308,Atencin Mdica,Consulta Mdica,87909105,B,15 a 19 aos,Mujer,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,72392186,B,15 a 19 aos,Mujer,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,82104472,B,20 a 24 aos,Hombre,Del Maule,Maule,1,9890,6590
+202301,101307,Atencin Mdica,Consulta Mdica,79542796,D,20 a 24 aos,Hombre,Del Maule,Parral,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,69380931,D,20 a 24 aos,Mujer,Del Bobo,Concepcin,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,96979386,C,20 a 24 aos,Mujer,Del Bobo,Concepcin,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,82443201,C,20 a 24 aos,Hombre,De Tarapac,Iquique,1,9890,6590
+202302,101312,Atencin Mdica,Consulta Mdica,79373427,B,20 a 24 aos,Mujer,De Valparaso,Calera,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,71961543,D,20 a 24 aos,Mujer,De Valparaso,Quilpu,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,76131809,C,20 a 24 aos,Mujer,De Valparaso,San Antonio,1,9890,6590
+202303,101321,Atencin Mdica,Consulta Mdica,78041158,B,20 a 24 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,71997879,B,20 a 24 aos,Hombre,De Valparaso,Via Del Mar,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,86576993,D,20 a 24 aos,Hombre,De Antofagasta,Antofagasta,1,9890,6590
+202302,101308,Atencin Mdica,Consulta Mdica,97827995,C,20 a 24 aos,Mujer,De Arica Y Parinacota,Arica,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,73004503,D,20 a 24 aos,Hombre,Metropolitana De Santiago,Buin,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,67119067,B,20 a 24 aos,Mujer,Metropolitana De Santiago,uoa,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,86106928,C,20 a 24 aos,Hombre,Metropolitana De Santiago,uoa,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,79036786,B,20 a 24 aos,Hombre,Metropolitana De Santiago,uoa,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,70459947,B,20 a 24 aos,Mujer,Metropolitana De Santiago,Recoleta,1,9890,6590
+202301,101312,Atencin Mdica,Consulta Mdica,84740938,B,20 a 24 aos,Hombre,Metropolitana De Santiago,Santiago,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,96631285,B,20 a 24 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202301,101305,Atencin Mdica,Consulta Mdica,71041499,C,20 a 24 aos,Mujer,Metropolitana De Santiago,Cerrillos,1,9890,6590
+202303,101307,Atencin Mdica,Consulta Mdica,73430285,B,20 a 24 aos,Hombre,Metropolitana De Santiago,La Florida,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,76216795,D,20 a 24 aos,Hombre,Metropolitana De Santiago,La Florida,1,9890,6590
+202301,101312,Atencin Mdica,Consulta Mdica,94523915,B,20 a 24 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,75549002,D,20 a 24 aos,Hombre,Metropolitana De Santiago,Las Condes,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,69559082,D,20 a 24 aos,Mujer,Metropolitana De Santiago,San Miguel,1,9890,6590
+202301,101307,Atencin Mdica,Consulta Mdica,78141379,C,20 a 24 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,73877225,D,20 a 24 aos,Hombre,Metropolitana De Santiago,Puente Alto,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,72083286,B,20 a 24 aos,Hombre,Metropolitana De Santiago,San Joaqun,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,86156864,B,20 a 24 aos,Mujer,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202301,101312,Atencin Mdica,Consulta Mdica,73873776,B,20 a 24 aos,Mujer,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,88137242,D,25 a 29 aos,Mujer,Del Maule,Talca,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,77290887,D,25 a 29 aos,Mujer,Del Maule,Talca,1,9890,6590
+202301,101330,Atencin Mdica,Consulta Mdica,76503876,D,25 a 29 aos,Mujer,Del Maule,Linares,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,83667373,B,25 a 29 aos,Mujer,Del Bobo,Concepcin,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,80187978,B,25 a 29 aos,Mujer,Del Bobo,Concepcin,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,78686397,B,25 a 29 aos,Mujer,De Coquimbo,Ovalle,1,9890,6590
+202301,101320,Atencin Mdica,Consulta Mdica,69047454,B,25 a 29 aos,Mujer,De Los Lagos,Ancud,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,75067345,B,25 a 29 aos,Mujer,De Valparaso,San Antonio,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,73650608,B,25 a 29 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,82003257,D,25 a 29 aos,Hombre,De Valparaso,Via Del Mar,1,9890,6590
+202301,101305,Atencin Mdica,Consulta Mdica,87448249,D,25 a 29 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,82756340,D,25 a 29 aos,Mujer,De Antofagasta,Calama,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,79122105,D,25 a 29 aos,Mujer,De La Araucana,Temuco,1,9890,6590
+202301,101307,Atencin Mdica,Consulta Mdica,75349987,B,25 a 29 aos,Mujer,Metropolitana De Santiago,Buin,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,74005776,B,25 a 29 aos,Mujer,Metropolitana De Santiago,Maip,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,83724882,D,25 a 29 aos,Mujer,Metropolitana De Santiago,Maip,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,76412811,D,25 a 29 aos,Mujer,Metropolitana De Santiago,Maip,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,78238377,B,25 a 29 aos,Mujer,Metropolitana De Santiago,Maip,1,9890,6590
+202302,101320,Atencin Mdica,Consulta Mdica,73234039,D,25 a 29 aos,Mujer,Metropolitana De Santiago,Maip,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,76266104,B,25 a 29 aos,Hombre,Metropolitana De Santiago,Maip,1,9890,6590
+202301,101304,Atencin Mdica,Consulta Mdica,76359724,C,25 a 29 aos,Hombre,Metropolitana De Santiago,Maip,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,74311040,D,25 a 29 aos,Mujer,Metropolitana De Santiago,Conchal,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,81438069,D,25 a 29 aos,Mujer,Metropolitana De Santiago,La Reina,1,9890,6590
+202302,101321,Atencin Mdica,Consulta Mdica,76024356,B,25 a 29 aos,Mujer,Metropolitana De Santiago,Peaflor,1,9890,6590
+202302,101308,Atencin Mdica,Consulta Mdica,77525357,D,25 a 29 aos,Mujer,Metropolitana De Santiago,Recoleta,1,9890,6590
+202301,101323,Atencin Mdica,Consulta Mdica,81261675,B,25 a 29 aos,Hombre,Metropolitana De Santiago,Santiago,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,75960545,D,25 a 29 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,85985197,B,25 a 29 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202301,101305,Atencin Mdica,Consulta Mdica,84206146,C,25 a 29 aos,Hombre,Metropolitana De Santiago,Santiago,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,97656682,C,25 a 29 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,98320152,B,25 a 29 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,97762010,C,25 a 29 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,95165856,D,25 a 29 aos,Hombre,Metropolitana De Santiago,Quilicura,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,74172802,B,25 a 29 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,72671648,B,25 a 29 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,98075014,D,25 a 29 aos,Hombre,Metropolitana De Santiago,Las Condes,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,84997821,D,25 a 29 aos,Hombre,Metropolitana De Santiago,San Miguel,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,83440737,C,25 a 29 aos,Mujer,Metropolitana De Santiago,San Miguel,1,9890,6590
+202301,101312,Atencin Mdica,Consulta Mdica,96726727,D,25 a 29 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,97994980,B,25 a 29 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,77630326,D,25 a 29 aos,Mujer,De Magallanes Y De La Antrtica Chilena,Punta Arenas,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,68078420,B,25 a 29 aos,Mujer,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,68100204,B,25 a 29 aos,Hombre,Del Libertador General Bernardo O'Higgins,San Fernando,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,78583561,D,25 a 29 aos,Mujer,Del Libertador General Bernardo O'Higgins,San Fernando,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,97380194,B,30 a 34 aos,Mujer,uble,Chilln,1,9890,6590
+202301,101307,Atencin Mdica,Consulta Mdica,87193149,B,30 a 34 aos,Hombre,Del Maule,Maule,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,96913165,B,30 a 34 aos,Mujer,Del Maule,Talca,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,95905715,C,30 a 34 aos,Mujer,Del Maule,Curic,1,9890,6590
+202303,101312,Atencin Mdica,Consulta Mdica,86611244,D,30 a 34 aos,Mujer,Del Maule,Parral,1,9890,6590
+202303,101305,Atencin Mdica,Consulta Mdica,77083878,B,30 a 34 aos,Mujer,Del Maule,Linares,1,9890,6590
+202303,101312,Atencin Mdica,Consulta Mdica,78943188,D,30 a 34 aos,Hombre,De Atacama,Copiap,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,72569632,B,30 a 34 aos,Mujer,Del Bobo,Concepcin,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,76235619,D,30 a 34 aos,Mujer,Del Bobo,Los ngeles,1,9890,6590
+202301,101305,Atencin Mdica,Consulta Mdica,83311236,B,30 a 34 aos,Mujer,De Coquimbo,Ovalle,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,69715984,B,30 a 34 aos,Mujer,De Coquimbo,Ovalle,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,73058602,B,30 a 34 aos,Mujer,De Coquimbo,La Serena,1,9890,6590
+202302,101323,Atencin Mdica,Consulta Mdica,78396855,D,30 a 34 aos,Mujer,De Coquimbo,La Serena,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,96223576,B,30 a 34 aos,Mujer,De Coquimbo,Los Vilos,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,78433539,D,30 a 34 aos,Hombre,De Tarapac,Iquique,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,79075832,D,30 a 34 aos,Mujer,De Tarapac,Iquique,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,80995559,C,30 a 34 aos,Hombre,De Los Lagos,Puerto Montt,1,9890,6590
+202302,101323,Atencin Mdica,Consulta Mdica,83373492,D,30 a 34 aos,Hombre,De Valparaso,Valparaso,1,9890,6590
+202301,101321,Atencin Mdica,Consulta Mdica,80235365,D,30 a 34 aos,Mujer,De Valparaso,Valparaso,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,71704052,B,30 a 34 aos,Mujer,De Valparaso,Valparaso,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,87425689,C,30 a 34 aos,Mujer,De Valparaso,San Antonio,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,82803541,C,30 a 34 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,67131900,D,30 a 34 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,68631835,D,30 a 34 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,95933925,C,30 a 34 aos,Hombre,De Valparaso,Via Del Mar,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,83444089,B,30 a 34 aos,Mujer,De Antofagasta,Calama,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,73434231,B,30 a 34 aos,Mujer,De Antofagasta,Antofagasta,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,77124443,B,30 a 34 aos,Mujer,De La Araucana,Temuco,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,77152530,B,30 a 34 aos,Mujer,De La Araucana,Temuco,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,67891450,C,30 a 34 aos,Mujer,De La Araucana,Temuco,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,69771624,D,30 a 34 aos,Mujer,Metropolitana De Santiago,Buin,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,77325264,C,30 a 34 aos,Mujer,Metropolitana De Santiago,Buin,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,94686824,B,30 a 34 aos,Mujer,Metropolitana De Santiago,Maip,1,9890,6590
+202302,101312,Atencin Mdica,Consulta Mdica,84714430,D,30 a 34 aos,Mujer,Metropolitana De Santiago,Renca,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,74411069,D,30 a 34 aos,Mujer,Metropolitana De Santiago,La Reina,1,9890,6590
+202301,101306,Atencin Mdica,Consulta Mdica,67326767,B,30 a 34 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202302,101308,Atencin Mdica,Consulta Mdica,71152417,B,30 a 34 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,95659330,D,30 a 34 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,97611188,C,30 a 34 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,96204266,D,30 a 34 aos,Mujer,Metropolitana De Santiago,Quilicura,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,79950993,B,30 a 34 aos,Mujer,Metropolitana De Santiago,Huechuraba,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,83668102,D,30 a 34 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202301,101316,Atencin Mdica,Consulta Mdica,77590279,D,30 a 34 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,72348872,C,30 a 34 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,71428936,B,30 a 34 aos,Mujer,Metropolitana De Santiago,Las Condes,1,9890,6590
+202301,101307,Atencin Mdica,Consulta Mdica,94817885,C,30 a 34 aos,Hombre,Metropolitana De Santiago,Las Condes,1,9890,6590
+202302,101319,Atencin Mdica,Consulta Mdica,86726958,B,30 a 34 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202303,101305,Atencin Mdica,Consulta Mdica,72903014,D,30 a 34 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,71616087,C,30 a 34 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202301,101312,Atencin Mdica,Consulta Mdica,71003653,D,30 a 34 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,96909272,B,30 a 34 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202302,101308,Atencin Mdica,Consulta Mdica,99091357,C,30 a 34 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,74697342,D,30 a 34 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202303,101305,Atencin Mdica,Consulta Mdica,72200835,C,30 a 34 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202302,101321,Atencin Mdica,Consulta Mdica,87452449,D,30 a 34 aos,Hombre,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,73273372,D,30 a 34 aos,Mujer,Metropolitana De Santiago,Estacin Central,1,9890,6590
+202301,101307,Atencin Mdica,Consulta Mdica,71639039,D,30 a 34 aos,Mujer,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,75449951,D,30 a 34 aos,Mujer,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202303,101312,Atencin Mdica,Consulta Mdica,73794179,B,30 a 34 aos,Hombre,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202303,101312,Atencin Mdica,Consulta Mdica,75446528,C,30 a 34 aos,Mujer,Del Libertador General Bernardo O'Higgins,San Fernando,1,9890,6590
+202302,101312,Atencin Mdica,Consulta Mdica,75960044,D,35 a 39 aos,Mujer,uble,Chilln,1,9890,6590
+202301,101305,Atencin Mdica,Consulta Mdica,77635628,C,35 a 39 aos,Mujer,Del Maule,Talca,1,9890,6590
+202302,101321,Atencin Mdica,Consulta Mdica,81447923,D,35 a 39 aos,Mujer,Del Maule,Talca,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,68157817,B,35 a 39 aos,Mujer,De Atacama,Copiap,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,80588356,D,35 a 39 aos,Mujer,De Atacama,Copiap,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,71478137,B,35 a 39 aos,Mujer,Del Bobo,Coronel,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,76177994,D,35 a 39 aos,Mujer,De Coquimbo,Ovalle,1,9890,6590
+202303,101312,Atencin Mdica,Consulta Mdica,88233931,D,35 a 39 aos,Mujer,De Coquimbo,La Serena,1,9890,6590
+202302,101312,Atencin Mdica,Consulta Mdica,68551903,D,35 a 39 aos,Mujer,De Valparaso,Valparaso,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,75374683,D,35 a 39 aos,Mujer,De Valparaso,Valparaso,1,9890,6590
+202301,101321,Atencin Mdica,Consulta Mdica,75850479,B,35 a 39 aos,Mujer,De Valparaso,Valparaso,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,67931088,C,35 a 39 aos,Mujer,De Valparaso,Santa Mara,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,87237147,C,35 a 39 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202303,101307,Atencin Mdica,Consulta Mdica,86686274,C,35 a 39 aos,Hombre,De Valparaso,Via Del Mar,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,69813297,D,35 a 39 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202302,101308,Atencin Mdica,Consulta Mdica,72473386,B,35 a 39 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,84705030,D,35 a 39 aos,Mujer,De Antofagasta,Antofagasta,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,96779303,D,35 a 39 aos,Mujer,De Antofagasta,Antofagasta,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,86658952,D,35 a 39 aos,Hombre,De La Araucana,Temuco,1,9890,6590
+202302,101308,Atencin Mdica,Consulta Mdica,75866493,B,35 a 39 aos,Mujer,De Arica Y Parinacota,Arica,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,76178083,D,35 a 39 aos,Mujer,Metropolitana De Santiago,Buin,1,9890,6590
+202303,101305,Atencin Mdica,Consulta Mdica,77338528,D,35 a 39 aos,Hombre,Metropolitana De Santiago,Maip,1,9890,6590
+202301,101304,Atencin Mdica,Consulta Mdica,94509060,D,35 a 39 aos,Mujer,Metropolitana De Santiago,uoa,1,9890,6590
+202304,101308,Atencin Mdica,Consulta Mdica,85883243,D,35 a 39 aos,Mujer,Metropolitana De Santiago,La Reina,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,76173089,B,35 a 39 aos,Hombre,Metropolitana De Santiago,Santiago,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,76926290,D,35 a 39 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,97238786,C,35 a 39 aos,Hombre,Metropolitana De Santiago,Santiago,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,72375065,B,35 a 39 aos,Mujer,Metropolitana De Santiago,Melipilla,1,9890,6590
+202302,101308,Atencin Mdica,Consulta Mdica,84344518,B,35 a 39 aos,Mujer,Metropolitana De Santiago,Melipilla,1,9890,6590
+202302,101308,Atencin Mdica,Consulta Mdica,72427482,D,35 a 39 aos,Mujer,Metropolitana De Santiago,Huechuraba,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,79679119,D,35 a 39 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202303,101305,Atencin Mdica,Consulta Mdica,73540140,D,35 a 39 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,85448569,D,35 a 39 aos,Mujer,Metropolitana De Santiago,Las Condes,1,9890,6590
+202302,101323,Atencin Mdica,Consulta Mdica,73606233,B,35 a 39 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202301,101307,Atencin Mdica,Consulta Mdica,74007986,C,35 a 39 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,78662183,B,35 a 39 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,69564894,C,35 a 39 aos,Mujer,Metropolitana De Santiago,Puente Alto,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,84795326,D,35 a 39 aos,Hombre,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,71865886,B,35 a 39 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,83683936,B,35 a 39 aos,Mujer,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202303,101307,Atencin Mdica,Consulta Mdica,73386476,D,35 a 39 aos,Mujer,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202303,101305,Atencin Mdica,Consulta Mdica,94941142,B,35 a 39 aos,Hombre,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202305,1301009,Proc. Apoyo Clnico Y Terap.,Otorrinolaringologa,70875887,D,35 a 39 aos,Mujer,Del Libertador General Bernardo O'Higgins,Santa Cruz,1,2990,6590
+202303,101310,Atencin Mdica,Consulta Mdica,98336268,D,40 a 44 aos,Hombre,Del Maule,Linares,1,9890,6590
+202302,101308,Atencin Mdica,Consulta Mdica,73913638,B,40 a 44 aos,Mujer,De Tarapac,Iquique,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,75494745,D,40 a 44 aos,Mujer,De Tarapac,Iquique,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,72773582,B,40 a 44 aos,Mujer,De Los Lagos,Puerto Montt,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,96640829,D,40 a 44 aos,Mujer,De Valparaso,Quilpu,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,73036740,C,40 a 44 aos,Mujer,De Valparaso,Valparaso,1,9890,6590
+202303,101321,Atencin Mdica,Consulta Mdica,73901880,B,40 a 44 aos,Mujer,De Valparaso,Valparaso,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,75118999,B,40 a 44 aos,Hombre,De Valparaso,Via Del Mar,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,99266795,C,40 a 44 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202302,101312,Atencin Mdica,Consulta Mdica,83129252,D,40 a 44 aos,Mujer,De Arica Y Parinacota,Arica,1,9890,6590
+202303,101305,Atencin Mdica,Consulta Mdica,68339083,B,40 a 44 aos,Mujer,Metropolitana De Santiago,Lampa,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,79286069,D,40 a 44 aos,Mujer,Metropolitana De Santiago,Maip,1,9890,6590
+202303,101321,Atencin Mdica,Consulta Mdica,87944862,B,40 a 44 aos,Hombre,Metropolitana De Santiago,La Reina,1,9890,6590
+202301,101301,Atencin Mdica,Consulta Mdica,77406816,B,40 a 44 aos,Mujer,Metropolitana De Santiago,Recoleta,1,9890,6590
+202301,101323,Atencin Mdica,Consulta Mdica,84229355,C,40 a 44 aos,Hombre,Metropolitana De Santiago,Santiago,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,74264425,D,40 a 44 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,74722216,B,40 a 44 aos,Hombre,Metropolitana De Santiago,Santiago,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,97399649,B,40 a 44 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202302,101308,Atencin Mdica,Consulta Mdica,71363153,D,40 a 44 aos,Mujer,Metropolitana De Santiago,Melipilla,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,74092244,B,40 a 44 aos,Mujer,Metropolitana De Santiago,Melipilla,1,9890,6590
+202302,101308,Atencin Mdica,Consulta Mdica,76103935,D,40 a 44 aos,Mujer,Metropolitana De Santiago,Huechuraba,1,9890,6590
+202303,101305,Atencin Mdica,Consulta Mdica,73871652,D,40 a 44 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,72825021,B,40 a 44 aos,Hombre,Metropolitana De Santiago,Las Condes,1,9890,6590
+202301,101301,Atencin Mdica,Consulta Mdica,68825516,D,40 a 44 aos,Mujer,Metropolitana De Santiago,Las Condes,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,68193472,B,40 a 44 aos,Mujer,Metropolitana De Santiago,Las Condes,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,84332214,D,40 a 44 aos,Mujer,Metropolitana De Santiago,Las Condes,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,87847349,B,40 a 44 aos,Mujer,Metropolitana De Santiago,Las Condes,1,9890,6590
+202302,101308,Atencin Mdica,Consulta Mdica,91961952,B,40 a 44 aos,Mujer,Metropolitana De Santiago,Las Condes,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,70282906,B,40 a 44 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202302,101308,Atencin Mdica,Consulta Mdica,76104168,B,40 a 44 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,97476483,D,40 a 44 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,72339271,B,40 a 44 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202301,101305,Atencin Mdica,Consulta Mdica,68185757,C,40 a 44 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202302,101312,Atencin Mdica,Consulta Mdica,74878172,D,40 a 44 aos,Mujer,Metropolitana De Santiago,Independencia,1,9890,6590
+202301,101330,Atencin Mdica,Consulta Mdica,83934315,D,40 a 44 aos,Hombre,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,75041732,B,40 a 44 aos,Mujer,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202302,101312,Atencin Mdica,Consulta Mdica,69251529,D,40 a 44 aos,Mujer,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202301,101321,Atencin Mdica,Consulta Mdica,84082766,B,45 a 49 aos,Mujer,Del Maule,Talca,1,9890,6590
+202302,101312,Atencin Mdica,Consulta Mdica,74011214,C,45 a 49 aos,Mujer,Del Maule,Talca,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,67064333,B,45 a 49 aos,Mujer,Del Bobo,Penco,1,9890,6590
+202302,101308,Atencin Mdica,Consulta Mdica,73506751,D,45 a 49 aos,Mujer,De Coquimbo,La Serena,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,75404066,D,45 a 49 aos,Mujer,De Valparaso,Quilpu,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,67039570,B,45 a 49 aos,Mujer,De Valparaso,San Felipe,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,83261080,C,45 a 49 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,72866097,B,45 a 49 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,80091103,D,45 a 49 aos,Mujer,De Antofagasta,Antofagasta,1,9890,6590
+202301,101320,Atencin Mdica,Consulta Mdica,79969929,D,45 a 49 aos,Mujer,De Arica Y Parinacota,Arica,1,9890,6590
+202302,101320,Atencin Mdica,Consulta Mdica,74071191,B,45 a 49 aos,Mujer,De Arica Y Parinacota,Arica,1,9890,6590
+202302,101308,Atencin Mdica,Consulta Mdica,72205074,D,45 a 49 aos,Mujer,Metropolitana De Santiago,Maip,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,97731943,B,45 a 49 aos,Mujer,Metropolitana De Santiago,Maip,1,9890,6590
+202301,101312,Atencin Mdica,Consulta Mdica,85144562,D,45 a 49 aos,Hombre,Metropolitana De Santiago,Recoleta,1,9890,6590
+202302,101326,Atencin Mdica,Consulta Mdica,86401446,B,45 a 49 aos,Hombre,Metropolitana De Santiago,Recoleta,1,9890,6590
+202301,101323,Atencin Mdica,Consulta Mdica,85085517,D,45 a 49 aos,Hombre,Metropolitana De Santiago,Santiago,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,68586387,D,45 a 49 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,71260180,B,45 a 49 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202302,101312,Atencin Mdica,Consulta Mdica,75874810,C,45 a 49 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,68831018,D,45 a 49 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202303,101302,Atencin Mdica,Consulta Mdica,78934665,C,45 a 49 aos,Mujer,Metropolitana De Santiago,Las Condes,1,9890,6590
+202301,101323,Atencin Mdica,Consulta Mdica,81269808,D,45 a 49 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,76854576,D,45 a 49 aos,Hombre,Metropolitana De Santiago,Providencia,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,86912193,D,45 a 49 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,85694213,C,45 a 49 aos,Hombre,Metropolitana De Santiago,Providencia,1,9890,6590
+202301,101323,Atencin Mdica,Consulta Mdica,84730542,B,45 a 49 aos,Hombre,Metropolitana De Santiago,Providencia,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,69746426,D,45 a 49 aos,Hombre,Metropolitana De Santiago,Providencia,1,9890,6590
+202301,101312,Atencin Mdica,Consulta Mdica,71288698,D,45 a 49 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,71123366,B,45 a 49 aos,Mujer,Metropolitana De Santiago,San Joaqun,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,78836758,B,45 a 49 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202303,101300,Atencin Mdica,Consulta Mdica,75722800,D,45 a 49 aos,Hombre,Metropolitana De Santiago,Independencia,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,84248512,D,45 a 49 aos,Mujer,Metropolitana De Santiago,Estacin Central,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,79025313,D,45 a 49 aos,Mujer,De Magallanes Y De La Antrtica Chilena,Punta Arenas,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,75854299,D,45 a 49 aos,Mujer,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,74524878,D,50 a 54 aos,Mujer,Del Bobo,Concepcin,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,74661464,B,50 a 54 aos,Hombre,Del Bobo,Los ngeles,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,87212642,B,50 a 54 aos,Mujer,De Coquimbo,Ovalle,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,78446721,D,50 a 54 aos,Mujer,De Coquimbo,Ovalle,1,9890,6590
+202303,101307,Atencin Mdica,Consulta Mdica,80227837,D,50 a 54 aos,Mujer,De Los Lagos,Puerto Montt,1,9890,6590
+202303,101307,Atencin Mdica,Consulta Mdica,71724224,D,50 a 54 aos,Mujer,De Valparaso,Quilpu,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,71995217,D,50 a 54 aos,Mujer,De Valparaso,Quilpu,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,72064343,B,50 a 54 aos,Mujer,De Valparaso,Quilpu,1,9890,6590
+202303,101307,Atencin Mdica,Consulta Mdica,77501736,D,50 a 54 aos,Hombre,De Valparaso,San Antonio,1,9890,6590
+202303,101307,Atencin Mdica,Consulta Mdica,68368885,D,50 a 54 aos,Mujer,De Valparaso,San Antonio,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,73984873,D,50 a 54 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202301,101301,Atencin Mdica,Consulta Mdica,82290088,C,50 a 54 aos,Hombre,De Valparaso,Villa Alemana,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,69222596,C,50 a 54 aos,Mujer,De Antofagasta,Antofagasta,1,9890,6590
+202302,101321,Atencin Mdica,Consulta Mdica,76639773,C,50 a 54 aos,Hombre,Metropolitana De Santiago,Maip,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,79706562,D,50 a 54 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,82100905,B,50 a 54 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202301,101323,Atencin Mdica,Consulta Mdica,76457401,C,50 a 54 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,70763311,B,50 a 54 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202301,101323,Atencin Mdica,Consulta Mdica,69820292,C,50 a 54 aos,Mujer,Metropolitana De Santiago,Las Condes,1,9890,6590
+202301,101329,Atencin Mdica,Consulta Mdica,73009336,B,50 a 54 aos,Mujer,Metropolitana De Santiago,Las Condes,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,84141331,D,50 a 54 aos,Hombre,Metropolitana De Santiago,Providencia,1,9890,6590
+202301,101320,Atencin Mdica,Consulta Mdica,85659408,D,50 a 54 aos,Hombre,Metropolitana De Santiago,Providencia,1,9890,6590
+202302,101321,Atencin Mdica,Consulta Mdica,81591091,B,50 a 54 aos,Hombre,Metropolitana De Santiago,Providencia,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,99196956,C,50 a 54 aos,Hombre,Metropolitana De Santiago,Puente Alto,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,77385661,D,50 a 54 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202303,101314,Atencin Mdica,Consulta Mdica,97804189,C,50 a 54 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202303,101305,Atencin Mdica,Consulta Mdica,85423135,B,50 a 54 aos,Mujer,Metropolitana De Santiago,Independencia,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,68222381,B,50 a 54 aos,Mujer,De Magallanes Y De La Antrtica Chilena,Punta Arenas,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,78113803,C,55 a 59 aos,Mujer,De uble,Chilln,1,9890,6590
+202303,101312,Atencin Mdica,Consulta Mdica,69820528,D,55 a 59 aos,Mujer,Del Bobo,Arauco,1,9890,6590
+202303,101312,Atencin Mdica,Consulta Mdica,69496477,C,55 a 59 aos,Mujer,Del Bobo,Los ngeles,1,9890,6590
+202302,101323,Atencin Mdica,Consulta Mdica,78230500,B,55 a 59 aos,Mujer,De Coquimbo,Ovalle,1,9890,6590
+202303,101307,Atencin Mdica,Consulta Mdica,79352909,D,55 a 59 aos,Mujer,De Coquimbo,La Serena,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,74600047,D,55 a 59 aos,Mujer,De Valparaso,Quilpu,1,9890,6590
+202303,101305,Atencin Mdica,Consulta Mdica,68702252,B,55 a 59 aos,Mujer,De Valparaso,Los Andes,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,86639134,B,55 a 59 aos,Mujer,De Valparaso,Valparaso,1,9890,6590
+202301,101301,Atencin Mdica,Consulta Mdica,79177005,D,55 a 59 aos,Hombre,De Valparaso,San Antonio,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,71413421,B,55 a 59 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202303,101312,Atencin Mdica,Consulta Mdica,68061707,B,55 a 59 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,83856937,D,55 a 59 aos,Hombre,De Valparaso,Via Del Mar,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,74600047,D,55 a 59 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,79635283,C,55 a 59 aos,Hombre,De La Araucana,Temuco,1,9890,6590
+202301,101320,Atencin Mdica,Consulta Mdica,83086552,C,55 a 59 aos,Mujer,Metropolitana De Santiago,uoa,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,70605320,B,55 a 59 aos,Mujer,Metropolitana De Santiago,Colina,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,73016639,C,55 a 59 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,81455663,B,55 a 59 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,78771446,B,55 a 59 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202303,101312,Atencin Mdica,Consulta Mdica,72626571,B,55 a 59 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202301,101302,Atencin Mdica,Consulta Mdica,80710207,D,55 a 59 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,81006816,D,55 a 59 aos,Hombre,Metropolitana De Santiago,Santiago,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,84404514,B,55 a 59 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,70415645,D,55 a 59 aos,Hombre,Metropolitana De Santiago,La Florida,1,9890,6590
+202303,101312,Atencin Mdica,Consulta Mdica,72795395,D,55 a 59 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202301,101315,Atencin Mdica,Consulta Mdica,81557245,C,55 a 59 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202303,101307,Atencin Mdica,Consulta Mdica,68691605,D,55 a 59 aos,Hombre,Metropolitana De Santiago,Las Condes,1,9890,6590
+202303,101307,Atencin Mdica,Consulta Mdica,73977027,D,55 a 59 aos,Mujer,Metropolitana De Santiago,Las Condes,1,9890,6590
+202302,101312,Atencin Mdica,Consulta Mdica,76911237,D,55 a 59 aos,Hombre,Metropolitana De Santiago,San Miguel,1,9890,6590
+202303,101307,Atencin Mdica,Consulta Mdica,81686539,D,55 a 59 aos,Hombre,Metropolitana De Santiago,Cerro Navia,1,9890,6590
+202301,101307,Atencin Mdica,Consulta Mdica,76080167,D,55 a 59 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202303,101305,Atencin Mdica,Consulta Mdica,72785720,D,55 a 59 aos,Hombre,Metropolitana De Santiago,Puente Alto,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,74470846,B,55 a 59 aos,Mujer,Metropolitana De Santiago,Puente Alto,1,9890,6590
+202302,101305,Atencin Mdica,Consulta Mdica,71996209,C,55 a 59 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202301,101305,Atencin Mdica,Consulta Mdica,73386502,B,55 a 59 aos,Hombre,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202302,101323,Atencin Mdica,Consulta Mdica,70540823,B,55 a 59 aos,Hombre,Metropolitana De Santiago,Independencia,1,9890,6590
+202301,101321,Atencin Mdica,Consulta Mdica,83550943,B,55 a 59 aos,Mujer,Metropolitana De Santiago,Independencia,1,9890,6590
+202303,101307,Atencin Mdica,Consulta Mdica,72866487,D,55 a 59 aos,Hombre,Metropolitana De Santiago,Estacin Central,1,9890,6590
+202303,101321,Atencin Mdica,Consulta Mdica,81679116,D,55 a 59 aos,Hombre,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202301,101312,Atencin Mdica,Consulta Mdica,79390626,B,55 a 59 aos,Hombre,Del Libertador General Bernardo O'Higgins,San Vicente,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,69487524,D,60 a 64 aos,Mujer,Del Bobo,Coronel,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,67893095,B,60 a 64 aos,Mujer,Del Bobo,Talcahuano,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,86524972,D,60 a 64 aos,Hombre,De Tarapac,Iquique,1,9890,6590
+202302,101312,Atencin Mdica,Consulta Mdica,68753489,D,60 a 64 aos,Mujer,De Valparaso,San Felipe,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,81172390,D,60 a 64 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202302,101312,Atencin Mdica,Consulta Mdica,86018556,D,60 a 64 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202302,101305,Atencin Mdica,Consulta Mdica,76657282,B,60 a 64 aos,Hombre,De La Araucana,Traigun,1,9890,6590
+202302,101323,Atencin Mdica,Consulta Mdica,72300623,B,60 a 64 aos,Mujer,De Arica Y Parinacota,Arica,1,9890,6590
+202303,101307,Atencin Mdica,Consulta Mdica,68406115,D,60 a 64 aos,Hombre,Metropolitana De Santiago,Maip,1,9890,6590
+202302,101312,Atencin Mdica,Consulta Mdica,73280486,C,60 a 64 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202302,101318,Atencin Mdica,Consulta Mdica,75582497,B,60 a 64 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,75764037,D,60 a 64 aos,Hombre,Metropolitana De Santiago,Santiago,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,71152671,B,60 a 64 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,67584872,B,60 a 64 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,94580340,B,60 a 64 aos,Hombre,Metropolitana De Santiago,Santiago,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,81955788,D,60 a 64 aos,Hombre,Metropolitana De Santiago,Quilicura,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,74555649,D,60 a 64 aos,Hombre,Metropolitana De Santiago,Talagante,1,9890,6590
+202305,1301009,Proc. Apoyo Clnico Y Terap.,Otorrinolaringologa,72877704,B,60 a 64 aos,Mujer,Metropolitana De Santiago,Huechuraba,1,2990,6590
+202303,101308,Atencin Mdica,Consulta Mdica,81229448,B,60 a 64 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202302,101323,Atencin Mdica,Consulta Mdica,74166738,C,60 a 64 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202301,101307,Atencin Mdica,Consulta Mdica,87376830,B,60 a 64 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202301,101307,Atencin Mdica,Consulta Mdica,70226988,D,60 a 64 aos,Hombre,Metropolitana De Santiago,La Cisterna,1,9890,6590
+202303,101313,Atencin Mdica,Consulta Mdica,84889168,D,60 a 64 aos,Hombre,Metropolitana De Santiago,Providencia,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,87419263,B,60 a 64 aos,Hombre,Metropolitana De Santiago,Providencia,1,9890,6590
+202303,101305,Atencin Mdica,Consulta Mdica,87443334,D,60 a 64 aos,Hombre,Metropolitana De Santiago,Providencia,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,87666959,C,60 a 64 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202301,101323,Atencin Mdica,Consulta Mdica,76174406,B,60 a 64 aos,Hombre,Metropolitana De Santiago,Providencia,1,9890,6590
+202302,101319,Atencin Mdica,Consulta Mdica,75916985,C,60 a 64 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,82500164,B,60 a 64 aos,Hombre,Metropolitana De Santiago,Puente Alto,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,76711531,D,60 a 64 aos,Mujer,Metropolitana De Santiago,San Joaqun,1,9890,6590
+202301,101307,Atencin Mdica,Consulta Mdica,71742266,B,60 a 64 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,79470718,D,60 a 64 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,71881180,D,60 a 64 aos,Mujer,Metropolitana De Santiago,Independencia,1,9890,6590
+202301,101312,Atencin Mdica,Consulta Mdica,77848707,C,60 a 64 aos,Mujer,Metropolitana De Santiago,Estacin Central,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,80686623,B,60 a 64 aos,Hombre,Del Libertador General Bernardo O'Higgins,Machal,1,9890,6590
+202301,101307,Atencin Mdica,Consulta Mdica,67759784,B,65 a 69 aos,Hombre,uble,Chilln,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,84776473,B,65 a 69 aos,Mujer,Del Maule,Talca,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,67225266,B,65 a 69 aos,Mujer,Del Maule,Talca,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,74629145,D,65 a 69 aos,Mujer,Del Bobo,Chiguayante,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,87421199,D,65 a 69 aos,Hombre,Del Bobo,Los ngeles,1,9890,6590
+202301,101307,Atencin Mdica,Consulta Mdica,69353871,B,65 a 69 aos,Mujer,De Coquimbo,La Serena,1,9890,6590
+202303,101306,Atencin Mdica,Consulta Mdica,67824170,B,65 a 69 aos,Mujer,De Los Ros,La Unin,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,83272572,C,65 a 69 aos,Hombre,De Tarapac,Iquique,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,77155197,B,65 a 69 aos,Mujer,De Tarapac,Iquique,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,67800672,D,65 a 69 aos,Mujer,De Tarapac,Iquique,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,76729321,B,65 a 69 aos,Hombre,De Valparaso,Concn,1,9890,6590
+202302,101323,Atencin Mdica,Consulta Mdica,72098677,B,65 a 69 aos,Mujer,De Valparaso,Limache,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,68758661,B,65 a 69 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,80718348,B,65 a 69 aos,Hombre,De Valparaso,Via Del Mar,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,86837442,B,65 a 69 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202302,101312,Atencin Mdica,Consulta Mdica,86901355,C,65 a 69 aos,Hombre,De Valparaso,Via Del Mar,1,9890,6590
+202301,101307,Atencin Mdica,Consulta Mdica,80011114,B,65 a 69 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,77491534,C,65 a 69 aos,Mujer,Metropolitana De Santiago,Maip,1,9890,6590
+202301,101330,Atencin Mdica,Consulta Mdica,82450207,D,65 a 69 aos,Mujer,Metropolitana De Santiago,uoa,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,75115648,D,65 a 69 aos,Hombre,Metropolitana De Santiago,La Reina,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,78144560,D,65 a 69 aos,Mujer,Metropolitana De Santiago,Recoleta,1,9890,6590
+202302,101323,Atencin Mdica,Consulta Mdica,78796637,C,65 a 69 aos,Mujer,Metropolitana De Santiago,Recoleta,1,9890,6590
+202302,101312,Atencin Mdica,Consulta Mdica,72451477,B,65 a 69 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202303,101307,Atencin Mdica,Consulta Mdica,68495545,B,65 a 69 aos,Hombre,Metropolitana De Santiago,Pealoln,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,79939680,D,65 a 69 aos,Hombre,Metropolitana De Santiago,La Florida,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,70312569,B,65 a 69 aos,Hombre,Metropolitana De Santiago,La Florida,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,81978003,B,65 a 69 aos,Mujer,Metropolitana De Santiago,Las Condes,1,9890,6590
+202302,404009,Exmenes De Diagnstico,Imagenologa,79740260,D,65 a 69 aos,Hombre,Metropolitana De Santiago,Las Condes,1,6580,6590
+202301,101315,Atencin Mdica,Consulta Mdica,70050297,B,65 a 69 aos,Hombre,Metropolitana De Santiago,Providencia,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,70851359,B,65 a 69 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,70301801,B,65 a 69 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,79462888,D,65 a 69 aos,Hombre,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202303,101312,Atencin Mdica,Consulta Mdica,80925686,D,65 a 69 aos,Mujer,Metropolitana De Santiago,Independencia,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,76442908,B,65 a 69 aos,Mujer,Metropolitana De Santiago,Pedro Aguirre Cerda,1,9890,6590
+202301,101321,Atencin Mdica,Consulta Mdica,79542463,B,65 a 69 aos,Hombre,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202301,101308,Atencin Mdica,Consulta Mdica,72386729,B,65 a 69 aos,Mujer,Del Libertador General Bernardo O'Higgins,San Fernando,1,9890,6590
+202301,101301,Atencin Mdica,Consulta Mdica,67054428,B,70 a 74 aos,Mujer,De Atacama,Vallenar,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,77657400,D,70 a 74 aos,Mujer,Del Bobo,Concepcin,1,9890,6590
+202301,101307,Atencin Mdica,Consulta Mdica,77898892,C,70 a 74 aos,Mujer,De Coquimbo,Coquimbo,1,9890,6590
+202302,101305,Atencin Mdica,Consulta Mdica,67299196,B,70 a 74 aos,Mujer,De Coquimbo,La Serena,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,84990800,B,70 a 74 aos,Mujer,De Los Ros,Valdivia,1,9890,6590
+202303,101312,Atencin Mdica,Consulta Mdica,69923726,B,70 a 74 aos,Mujer,De Los Ros,Valdivia,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,69005869,B,70 a 74 aos,Hombre,De Valparaso,Quillota,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,71090708,B,70 a 74 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202301,101323,Atencin Mdica,Consulta Mdica,80809307,D,70 a 74 aos,Mujer,De Valparaso,Via Del Mar,1,9890,6590
+202302,101321,Atencin Mdica,Consulta Mdica,70785001,C,70 a 74 aos,Hombre,De Valparaso,Via Del Mar,1,9890,6590
+202301,101321,Atencin Mdica,Consulta Mdica,68494642,B,70 a 74 aos,Mujer,Metropolitana De Santiago,La Reina,1,9890,6590
+202302,101320,Atencin Mdica,Consulta Mdica,77197562,B,70 a 74 aos,Hombre,Metropolitana De Santiago,La Reina,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,77023678,C,70 a 74 aos,Hombre,Metropolitana De Santiago,Peaflor,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,73942025,B,70 a 74 aos,Mujer,Metropolitana De Santiago,Recoleta,1,9890,6590
+202302,101318,Atencin Mdica,Consulta Mdica,77299263,B,70 a 74 aos,Hombre,Metropolitana De Santiago,Recoleta,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,86644525,B,70 a 74 aos,Mujer,Metropolitana De Santiago,Recoleta,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,80157968,B,70 a 74 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202301,101301,Atencin Mdica,Consulta Mdica,86590049,B,70 a 74 aos,Hombre,Metropolitana De Santiago,Santiago,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,75583025,D,70 a 74 aos,Hombre,Metropolitana De Santiago,Santiago,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,85092026,B,70 a 74 aos,Mujer,Metropolitana De Santiago,Santiago,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,76121439,B,70 a 74 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,77216986,B,70 a 74 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,67869969,B,70 a 74 aos,Hombre,Metropolitana De Santiago,Puente Alto,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,69640836,D,70 a 74 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202301,101310,Atencin Mdica,Consulta Mdica,69878870,B,70 a 74 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202301,101315,Atencin Mdica,Consulta Mdica,75031104,B,70 a 74 aos,Hombre,Metropolitana De Santiago,Independencia,1,9890,6590
+202301,101326,Atencin Mdica,Consulta Mdica,70898556,D,70 a 74 aos,Hombre,Metropolitana De Santiago,Independencia,1,9890,6590
+202301,101321,Atencin Mdica,Consulta Mdica,71799333,D,70 a 74 aos,Mujer,Metropolitana De Santiago,Independencia,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,68678097,B,70 a 74 aos,Hombre,Metropolitana De Santiago,Independencia,1,9890,6590
+202301,101321,Atencin Mdica,Consulta Mdica,79735426,B,70 a 74 aos,Mujer,Del Libertador General Bernardo O'Higgins,Rancagua,1,9890,6590
+202302,101318,Atencin Mdica,Consulta Mdica,75817818,D,75 a 79 aos,Hombre,De Coquimbo,La Serena,1,9890,6590
+202303,101307,Atencin Mdica,Consulta Mdica,72358821,B,75 a 79 aos,Hombre,De Valparaso,Quilpu,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,68129488,B,75 a 79 aos,Mujer,De Valparaso,Valparaso,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,68496019,B,75 a 79 aos,Mujer,De Valparaso,San Antonio,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,76792477,D,75 a 79 aos,Mujer,De Valparaso,Villa Alemana,1,9890,6590
+202303,101307,Atencin Mdica,Consulta Mdica,77188051,B,75 a 79 aos,Mujer,De La Araucana,Loncoche,1,9890,6590
+202302,101301,Atencin Mdica,Consulta Mdica,73369931,B,75 a 79 aos,Hombre,Metropolitana De Santiago,Recoleta,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,80975139,C,75 a 79 aos,Hombre,Metropolitana De Santiago,Quilicura,1,9890,6590
+202303,101307,Atencin Mdica,Consulta Mdica,67482843,D,75 a 79 aos,Mujer,Metropolitana De Santiago,Las Condes,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,78310145,B,75 a 79 aos,Mujer,Metropolitana De Santiago,San Miguel,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,68588408,B,75 a 79 aos,Hombre,Metropolitana De Santiago,Providencia,1,9890,6590
+202301,101312,Atencin Mdica,Consulta Mdica,71453130,B,75 a 79 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,79834157,B,75 a 79 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202302,101321,Atencin Mdica,Consulta Mdica,86219273,C,75 a 79 aos,Hombre,Metropolitana De Santiago,Providencia,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,82187456,D,75 a 79 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,85346892,B,75 a 79 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,77770013,B,75 a 79 aos,Mujer,Metropolitana De Santiago,Puente Alto,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,76027613,B,75 a 79 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202303,101307,Atencin Mdica,Consulta Mdica,69504325,B,80 a 84 aos,Mujer,Del Bobo,Concepcin,1,9890,6590
+202302,101305,Atencin Mdica,Consulta Mdica,67768282,B,80 a 84 aos,Mujer,De Valparaso,Quilpu,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,67456221,B,80 a 84 aos,Mujer,Metropolitana De Santiago,Buin,1,9890,6590
+202302,101323,Atencin Mdica,Consulta Mdica,76768021,C,80 a 84 aos,Hombre,Metropolitana De Santiago,Santiago,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,78286449,C,80 a 84 aos,Hombre,Metropolitana De Santiago,Santiago,1,9890,6590
+202303,101308,Atencin Mdica,Consulta Mdica,70466722,D,80 a 84 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,76791405,B,80 a 84 aos,Hombre,Metropolitana De Santiago,Providencia,1,9890,6590
+202301,101305,Atencin Mdica,Consulta Mdica,80998391,B,80 a 84 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,82323323,C,85 a 89 aos,Hombre,De Valparaso,Via Del Mar,1,9890,6590
+202302,101312,Atencin Mdica,Consulta Mdica,67436347,B,85 a 89 aos,Mujer,De Valparaso,Villa Alemana,1,9890,6590
+202301,101302,Atencin Mdica,Consulta Mdica,73735168,C,85 a 89 aos,Mujer,Metropolitana De Santiago,Las Condes,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,68178299,B,85 a 89 aos,Mujer,Metropolitana De Santiago,Providencia,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,70785179,B,85 a 89 aos,Mujer,Metropolitana De Santiago,Estacin Central,1,9890,6590
+202303,101307,Atencin Mdica,Consulta Mdica,73833825,B,90 a 94 aos,Hombre,De Valparaso,San Antonio,1,9890,6590
+202303,101310,Atencin Mdica,Consulta Mdica,68476709,B,90 a 94 aos,Mujer,Metropolitana De Santiago,Melipilla,1,9890,6590
+202303,101301,Atencin Mdica,Consulta Mdica,87958785,C,90 a 94 aos,Mujer,Metropolitana De Santiago,La Florida,1,9890,6590
+202302,101310,Atencin Mdica,Consulta Mdica,67660949,B,90 a 94 aos,Mujer,De Magallanes Y De La Antrtica Chilena,Punta Arenas,1,9890,6590
+202303,404005,Exmenes De Diagnstico,Imagenologa,87038044,D,20 a 24 aos,Mujer,Metropolitana De Santiago,Talagante,1,6620,6620
+202301,404005,Exmenes De Diagnstico,Imagenologa,77487035,B,30 a 34 aos,Mujer,Metropolitana De Santiago,Santiago,1,6620,6620
+202301,404005,Exmenes De Diagnstico,Imagenologa,74478427,B,45 a 49 aos,Mujer,Metropolitana De Santiago,Santiago,1,6620,6620
+202301,401054,Exmenes De Diagnstico,Imagenologa,87306004,D,50 a 54 aos,Mujer,Metropolitana De Santiago,Buin,1,4140,6620
+202301,404005,Exmenes De Diagnstico,Imagenologa,95923535,B,55 a 59 aos,Mujer,Metropolitana De Santiago,Santiago,1,6620,6620
+202301,401054,Exmenes De Diagnstico,Imagenologa,70686721,C,80 a 84 aos,Hombre,Metropolitana De Santiago,Quilicura,1,4140,6620
+202304,1801037,Proc. Apoyo Clnico Y Terap.,Gastroentorologa,70891510,C,20 a 24 aos,Hombre,De Valparaso,Via Del Mar,1,3030,6680
+202304,1801037,Proc. Apoyo Clnico Y Terap.,Gastroentorologa,87826588,C,20 a 24 aos,Hombre,Metropolitana De Santiago,San Bernardo,1,3030,6680
+202304,1801037,Proc. Apoyo Clnico Y Terap.,Gastroentorologa,97373652,D,30 a 34 aos,Mujer,Metropolitana De Santiago,Providencia,1,3030,6680
+202304,1801037,Proc. Apoyo Clnico Y Terap.,Gastroentorologa,96139194,D,40 a 44 aos,Mujer,Metropolitana De Santiago,Providencia,1,3030,6680
+202305,1801037,Proc. Apoyo Clnico Y Terap.,Gastroentorologa,67851197,B,45 a 49 aos,Mujer,Del Bobo,Concepcin,1,3030,6680
+202304,1801037,Proc. Apoyo Clnico Y Terap.,Gastroentorologa,70320130,D,55 a 59 aos,Mujer,Metropolitana De Santiago,Santiago,1,3030,6680
+202303,305005,Exmenes De Diagnstico,Laboratorio Clnico,95058866,B,55 a 59 aos,Mujer,Metropolitana De Santiago,Talagante,2,6680,6680
+202304,1801037,Proc. Apoyo Clnico Y Terap.,Gastroentorologa,80740868,B,55 a 59 aos,Mujer,Metropolitana De Santiago,Las Condes,1,3030,6680
+202304,1801037,Proc. Apoyo Clnico Y Terap.,Gastroentorologa,78848930,D,55 a 59 aos,Hombre,Metropolitana De Santiago,Providencia,1,3030,6680
+202304,1801037,Proc. Apoyo Clnico Y Terap.,Gastroentorologa,78984215,D,60 a 64 aos,Hombre,De Los Lagos,Puerto Varas,1,3030,6680
+202305,1801037,Proc. Apoyo Clnico Y Terap.,Gastroentorologa,79631591,D,60 a 64 aos,Hombre,De Valparaso,San Antonio,1,3030,6680
+202304,1801037,Proc. Apoyo Clnico Y Terap.,Gastroentorologa,83938508,B,60 a 64 aos,Mujer,Metropolitana De Santiago,Santiago,1,3030,6680
+202306,404006,Exmenes De Diagnstico,Imagenologa,77541377,B,65 a 69 aos,Mujer,Del Libertador General Bernardo O'Higgins,Rancagua,1,6680,6680
+202306,303023,Exmenes De Diagnstico,Laboratorio Clnico,74972590,C,15 a 19 aos,Mujer,Del Bobo,Los ngeles,1,3050,6710
+202306,303023,Exmenes De Diagnstico,Laboratorio Clnico,96606097,D,30 a 34 aos,Hombre,Metropolitana De Santiago,Estacin Central,1,3050,6710
+202304,303023,Exmenes De Diagnstico,Laboratorio Clnico,75693294,D,60 a 64 aos,Hombre,Metropolitana De Santiago,Santiago,1,3050,6710
+202306,303023,Exmenes De Diagnstico,Laboratorio Clnico,79278401,B,70 a 74 aos,Hombre,De Los Ros,Valdivia,1,3050,6710
+202302,801001,Exmenes De Diagnstico,Anatoma Patolgica,75001636,C,20 a 24 aos,Mujer,De Atacama,Vallenar,1,3050,6730
+202306,309022,Exmenes De Diagnstico,Laboratorio Clnico,86778037,D,20 a 24 aos,Mujer,De Arica Y Parinacota,Arica,3,3050,6730
+202301,801001,Exmenes De Diagnstico,Anatoma Patolgica,83531368,B,20 a 24 aos,Mujer,Metropolitana De Santiago,Santiago,1,3050,6730
+202301,801001,Exmenes De Diagnstico,Anatoma Patolgica,81662181,B,25 a 29 aos,Mujer,Del Maule,Linares,1,3050,6730
+202301,801001,Exmenes De Diagnstico,Anatoma Patolgica,80175239,C,25 a 29 aos,Mujer,De Los Lagos,Osorno,1,3050,6730
+202303,801001,Exmenes De Diagnstico,Anatoma Patolgica,80874386,D,25 a 29 aos,Mujer,De Antofagasta,Antofagasta,1,3050,6730
+202302,801001,Exmenes De Diagnstico,Anatoma Patolgica,67655585,D,25 a 29 aos,Mujer,Metropolitana De Santiago,Recoleta,1,3050,6730
+202302,801001,Exmenes De Diagnstico,Anatoma Patolgica,70360342,B,25 a 29 aos,Mujer,Metropolitana De Santiago,Santiago,1,3050,6730
+202304,801001,Exmenes De Diagnstico,Anatoma Patolgica,80941656,C,25 a 29 aos,Mujer,Metropolitana De Santiago,Santiago,1,3050,6730
+202302,801001,Exmenes De Diagnstico,Anatoma Patolgica,77729483,C,25 a 29 aos,Mujer,Metropolitana De Santiago,Las Condes,1,3050,6730
+202301,801001,Exmenes De Diagnstico,Anatoma Patolgica,80613148,C,25 a 29 aos,Mujer,Metropolitana De Santiago,Providencia,1,3050,6730
+202301,801001,Exmenes De Diagnstico,Anatoma Patolgica,83018712,B,25 a 29 aos,Mujer,Metropolitana De Santiago,Puente Alto,1,3050,6730
+202302,801001,Exmenes De Diagnstico,Anatoma Patolgica,96803913,D,25 a 29 aos,Mujer,Del Libertador General Bernardo O'Higgins,Rancagua,1,3050,6730
+202301,801001,Exmenes De Diagnstico,Anatoma Patolgica,76388934,D,30 a 34 aos,Mujer,Del Maule,Talca,1,3050,6730
+202301,801001,Exmenes De Diagnstico,Anatoma Patolgica,74223299,B,30 a 34 aos,Mujer,Del Bobo,Talcahuano,1,3050,6730
+202301,801001,Exmenes De Diagnstico,Anatoma Patolgica,79246792,D,30 a 34 aos,Mujer,Metropolitana De Santiago,Melipilla,1,3050,6730
+202301,801001,Exmenes De Diagnstico,Anatoma Patolgica,82957297,D,30 a 34 aos,Mujer,Metropolitana De Santiago,Las Condes,1,3050,6730
+202302,801001,Exmenes De Diagnstico,Anatoma Patolgica,76656463,D,30 a 34 aos,Mujer,Del Libertador General Bernardo O'Higgins,Rancagua,1,3050,6730
+202301,801001,Exmenes De Diagnstico,Anatoma Patolgica,68563183,D,35 a 39 aos,Mujer,De Coquimbo,La Serena,1,3050,6730
+202301,801001,Exmenes De Diagnstico,Anatoma Patolgica,78032206,C,35 a 39 aos,Mujer,De La Araucana,Villarrica,1,3050,6730
+202301,801001,Exmenes De Diagnstico,Anatoma Patolgica,98106047,D,35 a 39 aos,Mujer,Metropolitana De Santiago,Melipilla,1,3050,6730
+202302,801001,Exmenes De Diagnstico,Anatoma Patolgica,88273495,D,35 a 39 aos,Mujer,Metropolitana De Santiago,Huechuraba,1,3050,6730
+202301,801001,Exmenes De Diagnstico,Anatoma Patolgica,86701638,C,40 a 44 aos,Mujer,Del Bobo,Concepcin,1,3050,6730
+202302,801001,Exmenes De Diagnstico,Anatoma Patolgica,77838785,D,40 a 44 aos,Mujer,De Coquimbo,La Serena,1,3050,6730
+202302,801001,Exmenes De Diagnstico,Anatoma Patolgica,72814895,D,40 a 44 aos,Mujer,De Valparaso,Via Del Mar,1,3050,6730
+202302,801001,Exmenes De Diagnstico,Anatoma Patolgica,79407267,B,40 a 44 aos,Mujer,Metropolitana De Santiago,Las Condes,1,3050,6730
+202301,801001,Exmenes De Diagnstico,Anatoma Patolgica,84070303,B,40 a 44 aos,Mujer,Metropolitana De Santiago,Providencia,1,3050,6730
+202303,306078,Exmenes De Diagnstico,Laboratorio Clnico,73320966,B,45 a 49 aos,Mujer,Del Maule,Parral,1,3050,6730
+202302,801001,Exmenes De Diagnstico,Anatoma Patolgica,68445803,D,45 a 49 aos,Mujer,De Coquimbo,Ovalle,1,3050,6730
+202302,801001,Exmenes De Diagnstico,Anatoma Patolgica,81335171,B,45 a 49 aos,Mujer,De Valparaso,Via Del Mar,1,3050,6730
+202302,801001,Exmenes De Diagnstico,Anatoma Patolgica,77005334,B,45 a 49 aos,Mujer,De Valparaso,Via Del Mar,1,3050,6730
+202302,801001,Exmenes De Diagnstico,Anatoma Patolgica,76303240,B,45 a 49 aos,Mujer,De Antofagasta,Antofagasta,1,3050,6730
+202301,801001,Exmenes De Diagnstico,Anatoma Patolgica,73837633,D,45 a 49 aos,Mujer,Metropolitana De Santiago,Pealoln,1,3050,6730
+202302,801001,Exmenes De Diagnstico,Anatoma Patolgica,85994556,B,45 a 49 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,3050,6730
+202301,801001,Exmenes De Diagnstico,Anatoma Patolgica,75725862,B,50 a 54 aos,Mujer,De Valparaso,Calera,1,3050,6730
+202301,801001,Exmenes De Diagnstico,Anatoma Patolgica,70315776,D,50 a 54 aos,Mujer,De Valparaso,San Felipe,1,3050,6730
+202301,801001,Exmenes De Diagnstico,Anatoma Patolgica,75104435,D,50 a 54 aos,Mujer,De Antofagasta,Antofagasta,1,3050,6730
+202302,601105,Otros Profesionales,Kinesiologa,70460084,C,50 a 54 aos,Mujer,Metropolitana De Santiago,Maip,1,3050,6730
+202301,801001,Exmenes De Diagnstico,Anatoma Patolgica,76400782,D,50 a 54 aos,Mujer,Del Libertador General Bernardo O'Higgins,Rancagua,1,3050,6730
+202301,801001,Exmenes De Diagnstico,Anatoma Patolgica,78059473,B,50 a 54 aos,Mujer,Del Libertador General Bernardo O'Higgins,San Vicente,1,3050,6730
+202301,601105,Otros Profesionales,Kinesiologa,80739867,B,70 a 74 aos,Mujer,Metropolitana De Santiago,Las Condes,1,3050,6730
+202303,101001,Atencin Mdica,Consulta Mdica,97979815,D,00 a 02 aos,Mujer,Del Bobo,Concepcin,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,98207291,B,00 a 02 aos,Mujer,De Coquimbo,Coquimbo,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,99430724,B,00 a 02 aos,Hombre,De Los Lagos,Puerto Montt,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,99643719,B,00 a 02 aos,Mujer,De Valparaso,Calera,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,98034622,B,00 a 02 aos,Hombre,De Valparaso,Quilpu,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,99469530,D,00 a 02 aos,Hombre,De Valparaso,Quilpu,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,97554986,B,00 a 02 aos,Mujer,De Valparaso,Valparaso,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,97608765,C,00 a 02 aos,Hombre,De Valparaso,Valparaso,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,99170815,C,00 a 02 aos,Hombre,De Valparaso,Via Del Mar,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,98082614,C,00 a 02 aos,Mujer,De Antofagasta,Calama,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,97460238,B,00 a 02 aos,Mujer,De Antofagasta,Antofagasta,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,98334019,B,00 a 02 aos,Hombre,De La Araucana,Nueva Imperial,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,98346607,D,00 a 02 aos,Hombre,Metropolitana De Santiago,Maip,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,99202294,B,00 a 02 aos,Mujer,Metropolitana De Santiago,Pudahuel,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,99541475,B,00 a 02 aos,Hombre,Metropolitana De Santiago,Recoleta,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,97897770,D,00 a 02 aos,Hombre,Metropolitana De Santiago,Quilicura,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,99250748,D,00 a 02 aos,Hombre,Metropolitana De Santiago,La Florida,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,97959294,D,00 a 02 aos,Hombre,Metropolitana De Santiago,San Miguel,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,99621242,B,00 a 02 aos,Mujer,Metropolitana De Santiago,Providencia,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,97756225,D,00 a 02 aos,Mujer,Metropolitana De Santiago,Puente Alto,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,98260637,B,00 a 02 aos,Hombre,Metropolitana De Santiago,Puente Alto,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,97491532,D,00 a 02 aos,Hombre,Metropolitana De Santiago,San Bernardo,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,97348281,D,03 a 04 aos,Mujer,Del Maule,Cauquenes,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,95832189,B,03 a 04 aos,Hombre,De Coquimbo,La Serena,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,96772991,D,03 a 04 aos,Mujer,De Valparaso,La Ligua,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,97245480,C,03 a 04 aos,Mujer,De Valparaso,Casablanca,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,97347929,B,03 a 04 aos,Hombre,De Valparaso,San Antonio,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,96464150,D,03 a 04 aos,Mujer,De La Araucana,Pitrufqun,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,95851389,C,03 a 04 aos,Mujer,Metropolitana De Santiago,Maip,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,99239542,D,03 a 04 aos,Hombre,Metropolitana De Santiago,Colina,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,96553368,B,03 a 04 aos,Hombre,Metropolitana De Santiago,Talagante,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,97371128,D,03 a 04 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,95448250,C,05 a 09 aos,Hombre,Del Bobo,Concepcin,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,78933753,B,05 a 09 aos,Mujer,De Coquimbo,Ovalle,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,95779010,B,05 a 09 aos,Hombre,De Coquimbo,La Serena,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,79753165,B,05 a 09 aos,Mujer,De Los Lagos,Osorno,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,79988775,D,05 a 09 aos,Mujer,De Los Lagos,Puerto Montt,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,79958744,D,05 a 09 aos,Hombre,De Valparaso,Limache,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,92304572,B,05 a 09 aos,Mujer,De Valparaso,Quilpu,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,80111366,B,05 a 09 aos,Mujer,De Valparaso,Quilpu,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,78934803,D,05 a 09 aos,Mujer,De Valparaso,Via Del Mar,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,95804028,B,05 a 09 aos,Mujer,De Antofagasta,Antofagasta,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,95712019,B,05 a 09 aos,Hombre,Metropolitana De Santiago,Maip,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,79698527,C,05 a 09 aos,Hombre,Metropolitana De Santiago,La Reina,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,94787057,C,05 a 09 aos,Hombre,Metropolitana De Santiago,Santiago,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,95830282,C,05 a 09 aos,Hombre,Metropolitana De Santiago,Santiago,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,78926174,C,05 a 09 aos,Hombre,Metropolitana De Santiago,La Florida,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,94431157,D,05 a 09 aos,Mujer,Metropolitana De Santiago,La Florida,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,94462063,B,05 a 09 aos,Hombre,Metropolitana De Santiago,San Miguel,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,94535131,C,05 a 09 aos,Hombre,Metropolitana De Santiago,Puente Alto,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,95049445,C,05 a 09 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,91789540,B,10 a 14 aos,Hombre,De Los Lagos,Puerto Montt,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,76346497,D,10 a 14 aos,Hombre,De Valparaso,Via Del Mar,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,78305572,B,10 a 14 aos,Mujer,Metropolitana De Santiago,Paine,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,75163609,C,10 a 14 aos,Mujer,Metropolitana De Santiago,Talagante,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,75442982,C,10 a 14 aos,Hombre,Metropolitana De Santiago,La Florida,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,91644539,B,10 a 14 aos,Mujer,Metropolitana De Santiago,La Florida,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,79648390,D,10 a 14 aos,Hombre,Metropolitana De Santiago,Quinta Normal,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,72924129,B,15 a 19 aos,Hombre,De uble,San Carlos,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,72341922,B,15 a 19 aos,Hombre,Del Maule,Teno,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,96307248,C,15 a 19 aos,Hombre,Del Maule,Talca,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,69143799,B,15 a 19 aos,Mujer,Del Maule,San Javier,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,76299985,D,15 a 19 aos,Hombre,Del Bobo,Concepcin,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,70118937,D,15 a 19 aos,Hombre,Del Bobo,Concepcin,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,77720672,B,15 a 19 aos,Hombre,De Los Ros,Valdivia,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,87804714,B,15 a 19 aos,Mujer,De Tarapac,Iquique,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,71907624,D,15 a 19 aos,Hombre,De Tarapac,Iquique,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,72095237,D,15 a 19 aos,Mujer,De Los Lagos,Osorno,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,78797414,D,15 a 19 aos,Hombre,De Los Lagos,Puerto Montt,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,87979141,D,15 a 19 aos,Mujer,De Valparaso,Calera,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,71423474,C,15 a 19 aos,Hombre,De Valparaso,Quilpu,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,87805743,B,15 a 19 aos,Mujer,De Valparaso,Quilpu,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,73141330,D,15 a 19 aos,Hombre,De Valparaso,San Antonio,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,70494433,D,15 a 19 aos,Hombre,De Valparaso,Via Del Mar,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,70909590,D,15 a 19 aos,Hombre,De Antofagasta,Calama,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,72444891,C,15 a 19 aos,Mujer,De Antofagasta,Tocopilla,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,98393088,D,15 a 19 aos,Mujer,De Antofagasta,Antofagasta,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,67351922,D,15 a 19 aos,Hombre,De La Araucana,Angol,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,74589012,B,15 a 19 aos,Mujer,Metropolitana De Santiago,Maip,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,83931702,D,15 a 19 aos,Hombre,Metropolitana De Santiago,Recoleta,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,71231531,B,15 a 19 aos,Mujer,Metropolitana De Santiago,Recoleta,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,75424209,C,15 a 19 aos,Mujer,Metropolitana De Santiago,Santiago,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,72582159,B,15 a 19 aos,Mujer,Metropolitana De Santiago,Santiago,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,68722504,C,15 a 19 aos,Mujer,Metropolitana De Santiago,Vitacura,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,70269875,C,15 a 19 aos,Hombre,Metropolitana De Santiago,Cerrillos,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,69024920,C,15 a 19 aos,Hombre,Metropolitana De Santiago,Cerrillos,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,87931452,D,15 a 19 aos,Hombre,Metropolitana De Santiago,Cerrillos,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,74394066,B,15 a 19 aos,Mujer,Metropolitana De Santiago,Melipilla,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,73774072,B,15 a 19 aos,Mujer,Metropolitana De Santiago,Melipilla,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,71501324,C,15 a 19 aos,Hombre,Metropolitana De Santiago,Quilicura,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,87819735,C,15 a 19 aos,Mujer,Metropolitana De Santiago,Las Condes,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,69778931,D,15 a 19 aos,Mujer,Metropolitana De Santiago,Providencia,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,94643955,B,15 a 19 aos,Hombre,Metropolitana De Santiago,Providencia,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,86232671,D,15 a 19 aos,Hombre,Metropolitana De Santiago,Puente Alto,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,72797210,B,15 a 19 aos,Hombre,Metropolitana De Santiago,Puente Alto,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,73531512,D,15 a 19 aos,Mujer,Metropolitana De Santiago,Puente Alto,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,73473837,B,15 a 19 aos,Hombre,Metropolitana De Santiago,San Bernardo,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,73186199,C,15 a 19 aos,Hombre,Metropolitana De Santiago,Isla De Maipo,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,74702339,C,15 a 19 aos,Hombre,Del Libertador General Bernardo O'Higgins,Rengo,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,69233326,B,15 a 19 aos,Hombre,Del Libertador General Bernardo O'Higgins,San Fernando,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,68007743,B,20 a 24 aos,Hombre,De uble,Chilln,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,87786491,D,20 a 24 aos,Mujer,Del Maule,Talca,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,68598871,B,20 a 24 aos,Mujer,De Atacama,Copiap,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,72720621,D,20 a 24 aos,Mujer,Del Bobo,Caete,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,71235254,C,20 a 24 aos,Hombre,Del Bobo,Los ngeles,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,70717588,B,20 a 24 aos,Mujer,De Coquimbo,La Serena,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,76351602,B,20 a 24 aos,Mujer,De Coquimbo,La Serena,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,70746018,D,20 a 24 aos,Mujer,De Coquimbo,La Serena,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,84688032,D,20 a 24 aos,Mujer,De Coquimbo,La Serena,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,75894877,B,20 a 24 aos,Hombre,De Los Ros,Valdivia,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,71759000,B,20 a 24 aos,Mujer,De Los Ros,Valdivia,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,73394855,D,20 a 24 aos,Mujer,De Los Lagos,Osorno,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,73616449,B,20 a 24 aos,Mujer,De Los Lagos,Puerto Montt,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,82856323,D,20 a 24 aos,Hombre,De Valparaso,Limache,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,68038498,B,20 a 24 aos,Mujer,De Valparaso,Quilpu,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,83415133,C,20 a 24 aos,Hombre,De Valparaso,Quilpu,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,85921377,B,20 a 24 aos,Hombre,De Valparaso,Quilpu,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,70946499,C,20 a 24 aos,Hombre,De Valparaso,La Ligua,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,78762622,C,20 a 24 aos,Mujer,De Valparaso,Valparaso,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,75216291,D,20 a 24 aos,Hombre,De Valparaso,Via Del Mar,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,82940813,D,20 a 24 aos,Hombre,De Antofagasta,Antofagasta,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,85652645,D,20 a 24 aos,Mujer,De Antofagasta,Antofagasta,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,83842094,D,20 a 24 aos,Mujer,De Antofagasta,Antofagasta,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,85499162,B,20 a 24 aos,Mujer,De Antofagasta,Antofagasta,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,87828916,C,20 a 24 aos,Mujer,De Antofagasta,Antofagasta,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,84924049,B,20 a 24 aos,Mujer,De La Araucana,Temuco,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,78012401,B,20 a 24 aos,Hombre,De La Araucana,Temuco,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,70500059,B,20 a 24 aos,Mujer,De La Araucana,Temuco,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,79999211,B,20 a 24 aos,Mujer,De La Araucana,Temuco,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,83720900,B,20 a 24 aos,Mujer,De La Araucana,Pitrufqun,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,80791186,B,20 a 24 aos,Mujer,Metropolitana De Santiago,Maip,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,87026793,D,20 a 24 aos,Mujer,Metropolitana De Santiago,Maip,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,71894748,B,20 a 24 aos,Hombre,Metropolitana De Santiago,Maip,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,94769826,D,20 a 24 aos,Hombre,Metropolitana De Santiago,Maip,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,86023500,B,20 a 24 aos,Hombre,Metropolitana De Santiago,Paine,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,72246533,D,20 a 24 aos,Mujer,Metropolitana De Santiago,Colina,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,71555161,B,20 a 24 aos,Mujer,Metropolitana De Santiago,Santiago,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,82003289,D,20 a 24 aos,Mujer,Metropolitana De Santiago,Santiago,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,82970543,B,20 a 24 aos,Hombre,Metropolitana De Santiago,Santiago,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,70211470,D,20 a 24 aos,Hombre,Metropolitana De Santiago,Santiago,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,69610111,B,20 a 24 aos,Mujer,Metropolitana De Santiago,Santiago,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,69302962,C,20 a 24 aos,Mujer,Metropolitana De Santiago,Cerrillos,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,69441558,D,20 a 24 aos,Mujer,Metropolitana De Santiago,Quilicura,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,72670111,D,20 a 24 aos,Mujer,Metropolitana De Santiago,Quilicura,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,70301709,C,20 a 24 aos,Hombre,Metropolitana De Santiago,La Florida,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,81658944,B,20 a 24 aos,Hombre,Metropolitana De Santiago,La Florida,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,87465472,D,20 a 24 aos,Hombre,Metropolitana De Santiago,Las Condes,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,85112421,C,20 a 24 aos,Hombre,Metropolitana De Santiago,Las Condes,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,70107639,D,20 a 24 aos,Hombre,Metropolitana De Santiago,Providencia,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,76384037,C,20 a 24 aos,Hombre,Metropolitana De Santiago,Providencia,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,67610781,D,20 a 24 aos,Mujer,Metropolitana De Santiago,Providencia,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,86674562,D,20 a 24 aos,Hombre,Metropolitana De Santiago,Puente Alto,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,69351323,B,20 a 24 aos,Mujer,Metropolitana De Santiago,Puente Alto,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,74717258,D,20 a 24 aos,Hombre,Metropolitana De Santiago,Puente Alto,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,69563109,C,20 a 24 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,72565469,B,20 a 24 aos,Hombre,Metropolitana De Santiago,San Bernardo,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,74801438,C,20 a 24 aos,Mujer,Metropolitana De Santiago,San Bernardo,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,69878073,B,20 a 24 aos,Hombre,Metropolitana De Santiago,San Bernardo,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,85542341,D,20 a 24 aos,Mujer,De Magallanes Y De La Antrtica Chilena,Punta Arenas,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,78214675,D,25 a 29 aos,Mujer,Del Maule,Talca,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,78737817,B,25 a 29 aos,Mujer,Del Maule,Molina,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,84507843,C,25 a 29 aos,Mujer,Del Maule,Linares,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,78774025,D,25 a 29 aos,Mujer,Del Maule,Constitucin,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,72022529,D,25 a 29 aos,Hombre,De Atacama,Copiap,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,76025422,B,25 a 29 aos,Mujer,Del Bobo,Los ngeles,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,82718067,D,25 a 29 aos,Hombre,Del Bobo,Los ngeles,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,68004550,D,25 a 29 aos,Mujer,De Coquimbo,La Serena,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,71159744,D,25 a 29 aos,Mujer,De Coquimbo,La Serena,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,83534104,D,25 a 29 aos,Hombre,De Coquimbo,La Serena,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,82182713,B,25 a 29 aos,Mujer,De Coquimbo,La Serena,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,69288494,D,25 a 29 aos,Hombre,De Coquimbo,La Serena,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,77453352,B,25 a 29 aos,Mujer,De Coquimbo,La Serena,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,80647808,D,25 a 29 aos,Hombre,De Los Ros,Valdivia,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,73619745,D,25 a 29 aos,Hombre,De Los Ros,Valdivia,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,83180050,D,25 a 29 aos,Hombre,De Tarapac,Iquique,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,77783661,D,25 a 29 aos,Mujer,De Los Lagos,Castro,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,79887989,B,25 a 29 aos,Hombre,De Valparaso,Calera,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,74775263,C,25 a 29 aos,Hombre,De Valparaso,Limache,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,76106584,B,25 a 29 aos,Mujer,De Valparaso,Quillota,1,6210,6750
+202302,101001,Atencin Mdica,Consulta Mdica,68390217,B,25 a 29 aos,Hombre,De Valparaso,San Felipe,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,86362783,D,25 a 29 aos,Hombre,De Antofagasta,Antofagasta,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,82889061,D,25 a 29 aos,Hombre,De Antofagasta,Antofagasta,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,79252228,B,25 a 29 aos,Hombre,De Antofagasta,Antofagasta,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,69050633,C,25 a 29 aos,Hombre,De Antofagasta,Antofagasta,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,86338528,D,25 a 29 aos,Mujer,De La Araucana,Temuco,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,78461709,B,25 a 29 aos,Mujer,De La Araucana,Villarrica,1,6210,6750
+202301,101001,Atencin Mdica,Consulta Mdica,73998840,B,25 a 29 aos,Mujer,De Arica Y Parinacota,Arica,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,81530409,D,25 a 29 aos,Mujer,Metropolitana De Santiago,Buin,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,81429362,D,25 a 29 aos,Mujer,Metropolitana De Santiago,Maip,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,74470827,D,25 a 29 aos,Mujer,Metropolitana De Santiago,Maip,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,78390065,C,25 a 29 aos,Mujer,Metropolitana De Santiago,Maip,1,6210,6750
+202303,101001,Atencin Mdica,Consulta Mdica,81807958,D,25 a 29 aos,Hombre,Metropolitana De Santiago,Maip,1,6210,6750
